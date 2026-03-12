@@ -1,0 +1,63 @@
+═══════════════════════════════════════════
+COIAS MUSIC — FICHA DE PRODUÇÃO
+═══════════════════════════════════════════
+📋 Pipeline: Suno 03 | Modo: ÁLBUM
+💿 Álbum: Ecos da Redenção
+🔢 Faixa: 01 de 6
+
+─── DADOS DA FAIXA ───
+🔥 Título: O Poço e a Rocha
+🎼 Estilo do Álbum: Blues Gospel
+📖 Referência: Salmos 40:1-2
+📖 Versão Bíblica: ARC
+📖 Texto do versículo:
+"Esperei com paciência no SENHOR, e ele se inclinou para mim, e ouviu o meu clamor. Tirou-me dum lago horrível, dum charco de lodo, pôs os meus pés sobre uma rocha, firmou os meus passos."
+
+💭 Contexto emocional:
+Alguém que afundou nas consequências da própria vida (depressão, vício) e descobre que Deus o resgata do fundo.
+
+─── PROMPT SUNO (variação desta faixa) ───
+Blues Gospel, 72bpm, slide guitar, Hammond organ, soulful male vocals, raw and intimate, [no rap sections], [church choir background]
+
+─── COMPOSIÇÃO ───
+
+[Verso 1]
+A lama tava no pescoço, o escuro me cegou
+Gritei até rasgar a voz, pensei que o fim chegou
+O poço não tinha fundo, o frio cortava os ossos
+Eu era só um resto, um erro, um destroço
+
+[Refrão]
+Mas o Senhor desceu no charco de lodo
+O seu braço forte me tirou do mundo
+pôs o meu pé na rocha, me deu um chão seguro
+ouviu o meu clamor, e derrubou meu muro
+
+[Verso 2]
+O lodo tentou me puxar, a culpa disse fica.
+Mas a voz do Salvador é a cruz que justifica.
+Ele limpou a sujeira, lavou a minha dor.
+Firmou o meu passo, é fiel o meu Senhor.
+
+[Refrão]
+Porque o Senhor desceu no charco de lodo
+O seu braço forte me tirou do mundo
+Pôs o meu pé na rocha, me deu um chão seguro
+Ouviu o meu clamor, e derrubou meu muro
+
+[Bridge]
+Paciência foi a chave no meio do meu nada
+Ele se inclinou do céu, abriu a minha estrada
+A rocha não abala, a pedra não vacila
+Cristo é meu refúgio, é a graça que me asila
+
+[Refrão Final]
+Sim, o Senhor desceu no charco de lodo
+O seu braço forte me tirou do mundo
+Ele pôs o meu pé na rocha, me deu um chão seguro
+Deus ouviu meu grito, Ele é o meu escudo
+
+─── METADADOS ───
+#️⃣ Hashtags: #BluesGospel #Salmos40 #DeusFiel #Resgate #LouvorBlues #GospelMusic #CristoSalva #Fe #Graca #Worship
+📋 Status: [ ] Pendente | [x] Gerado | [ ] Aprovado | [ ] Publicado
+═══════════════════════════════════════════

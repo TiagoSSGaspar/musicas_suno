@@ -1,0 +1,62 @@
+═══════════════════════════════════════════
+COIAS MUSIC — FICHA DE PRODUÇÃO
+═══════════════════════════════════════════
+📋 Pipeline: Suno 03 | Modo: ÁLBUM
+💿 Álbum: Ecos da Redenção
+🔢 Faixa: 03 de 6
+
+─── DADOS DA FAIXA ───
+🔥 Título: Pelas Águas e Fogo
+🎼 Estilo do Álbum: Blues Gospel
+📖 Referência: Isaías 43:2
+📖 Versão Bíblica: ARC
+📖 Texto do versículo:
+"Quando passares pelas águas estarei contigo, e quando pelos rios, eles não te submergirão; quando passares pelo fogo, não te queimarás, nem a chama arderá em ti."
+
+💭 Contexto emocional:
+A certeza de que as circunstâncias trágicas tentam destruir, mas o Senhor garante a preservação da vida e da fé no meio da tempestade.
+
+─── PROMPT SUNO (variação desta faixa) ───
+Upbeat Blues Gospel, 95bpm, electric guitar, heavy bass groove, powerful female vocals, declarative, [call and response]
+
+─── COMPOSIÇÃO ───
+
+[Verso 1]
+O rio subiu além da margem, o vento quebrou meu lar
+A enchente bateu na porta, tentando me arrancar
+Vieram as chamas de surpresa, o fogo cercou meu chão
+Mas onde faltou socorro humano, sobrou a Tua mão
+
+[Refrão]
+Quando eu passo pelas águas, o Senhor está lá!
+Quando eu cruzo esse rio, não vou me afogar!
+Se o fogo aperta o cerco, eu não vou me queimar!
+Pois a chama não arde, se Cristo vem me guardar!
+
+[Verso 2]
+O mundo apostou na minha queda, disse que eu ia afundar
+Mas eu tenho uma promessa, de quem divide o mar
+Eu não sou dono da jornada, mas sei quem vai me guiar
+O Deus que forjou a terra, não vai me abandonar
+
+[Refrão]
+Quando eu passo pelas águas, o Senhor está lá!
+Quando eu cruzo esse rio, não vou me afogar!
+Se o fogo aperta o cerco, eu não vou me queimar!
+Pois a chama não arde, se Cristo vem me guardar!
+
+[Bridge]
+Não é a minha força que vence o vendaval
+É a graça soberana que me livra de todo o mal
+O Deus que fez o fogo, é o Dono do calor
+Eu saio ileso dessa fornalha, louvando o meu Senhor!
+
+[Refrão Final]
+Quando eu passo pelas águas, o Senhor está lá!
+O rio não me afoga, e o fogo não pode queimar!
+A chama não arde, o Altíssimo vem me guardar!
+
+─── METADADOS ───
+#️⃣ Hashtags: #UpbeatBlues #Isaias43 #DeusProtege #FogoEAgua #VitoriaEmCristo #GospelBlues #Redencao #Louvor #Testemunho #Fe
+📋 Status: [ ] Pendente | [x] Gerado | [ ] Aprovado | [ ] Publicado
+═══════════════════════════════════════════

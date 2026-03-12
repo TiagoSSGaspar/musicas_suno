@@ -1,0 +1,3 @@
+BLUES => https://suno.com/create?wid=db0fe643-0aaa-4f69-86f9-6dc0864aede1
+SERTANEJO => https://suno.com/create?wid=81cd84cb-7ca4-4928-bcb9-a2886e732b74
+FORRÓ => https://suno.com/create?wid=97d92753-15af-4543-b514-89d4e8cb7042

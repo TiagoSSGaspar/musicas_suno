@@ -1,0 +1,62 @@
+═══════════════════════════════════════════
+COIAS MUSIC — FICHA DE PRODUÇÃO
+═══════════════════════════════════════════
+📋 Pipeline: Suno 03 | Modo: ÁLBUM
+💿 Álbum: Ecos da Redenção
+🔢 Faixa: 04 de 6
+
+─── DADOS DA FAIXA ───
+🔥 Título: Perto do Quebrado
+🎼 Estilo do Álbum: Blues Gospel
+📖 Referência: Salmos 34:18
+📖 Versão Bíblica: ARC
+📖 Texto do versículo:
+"Perto está o SENHOR dos que têm o coração quebrantado, e salva os contritos de espírito."
+
+💭 Contexto emocional:
+A profunda tristeza de perder algo que não volta, sentindo a solidão esmagadora, mas sendo abraçado por um Deus que não abandona quem chora.
+
+─── PROMPT SUNO (variação desta faixa) ───
+Slow Blues Gospel, 60bpm, piano, crying electric guitar, soft male vocal, comforting and intimate, [whispered verse 1]
+
+─── COMPOSIÇÃO ───
+
+[Whispered Verse 1]
+O prato ficou vazio, e a cadeira ficou sem par
+A lágrima secou no rosto, eu desaprendi a sonhar
+O tempo não volta atrás, o erro não dá pra cobrir
+O meu peito virou um caco, eu não consigo seguir
+
+[Refrão]
+Mas perto está o Senhor de quem tem o coração quebrantado
+Ele junta os meus pedaços quando eu fico destroçado
+Ele entra no meu silêncio, salva quem tá esmagado
+O meu Deus não vai embora, Ele fica do meu lado
+
+[Verso 2]
+O mundo só gosta dos fortes, e vira as costas pro pó
+Mas o Mestre que andou no Gólgota sabe o que é chorar só
+Eu chego arrastando a corrente, não resta nada no altar
+Mas Ele conhece a ferida, por isso desceu pra curar
+
+[Refrão]
+Porque perto está o Senhor de quem tem o coração quebrantado
+Ele junta os meus pedaços quando eu me sinto destroçado
+Ele entra no meu silêncio, salva quem tá esmagado
+O meu Deus não vai embora, Ele fica do meu lado
+
+[Bridge]
+Ai de mim se não fosse a porta que só se abre pro menor
+Se Ele não fosse o tesouro escondido no pó
+O contrito de espírito acha descanso real
+A cruz é o meu refrigério, afasta de mim o mal
+
+[Refrão Final]
+Perto está o Senhor do coração quebrantado
+Ele me deu a salvação, me perdoou o pecado
+O meu choro Ele escutou, eu não fui abandonado
+
+─── METADADOS ───
+#️⃣ Hashtags: #SlowBlues #Salmos34 #CoracaoQuebrantado #Consolo #DeusDoLuto #Worship #PazEmCristo #GospelBlues #Redencao #Esperanca
+📋 Status: [ ] Pendente | [x] Gerado | [ ] Aprovado | [ ] Publicado
+═══════════════════════════════════════════

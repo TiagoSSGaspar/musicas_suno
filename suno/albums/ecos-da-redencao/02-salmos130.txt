@@ -1,0 +1,65 @@
+═══════════════════════════════════════════
+COIAS MUSIC — FICHA DE PRODUÇÃO
+═══════════════════════════════════════════
+📋 Pipeline: Suno 03 | Modo: ÁLBUM
+💿 Álbum: Ecos da Redenção
+🔢 Faixa: 02 de 6
+
+─── DADOS DA FAIXA ───
+🔥 Título: O Grito das Profundezas
+🎼 Estilo do Álbum: Blues Gospel
+📖 Referência: Salmos 130:1-2
+📖 Versão Bíblica: ARC
+📖 Texto do versículo:
+"Das profundezas clamo a ti, ó SENHOR. Senhor, escuta a minha voz; sejam os teus ouvidos atentos à voz das minhas súplicas."
+
+💭 Contexto emocional:
+O desespero absoluto de quem está no fundo do poço emocional ou espiritual, clamando por pura misericórdia.
+
+─── PROMPT SUNO (variação desta faixa) ───
+Acoustic Blues Gospel, 65bpm, acoustic guitar, harmonica, gritty male vocals, deep sorrow to hope, [spoken word intro], [a cappella bridge]
+
+─── COMPOSIÇÃO ───
+
+[Spoken Word Intro]
+Não tem mais pra onde descer. Cheguei no fundo. É daqui que eu falo Contigo.
+
+[Verso 1]
+A noite cobriu o meu peito, a sombra tomou a visão
+Eu perdi as forças na estrada, fiquei jogado no chão
+O abismo chamou pelo abismo, e a alma perdeu a cor
+Eu não tenho prata nem ouro, só tenho a dor e o suor
+
+[Refrão]
+Das profundezas eu clamo a Ti, ó Senhor
+Escuta a minha voz, recolhe a minha dor
+Seja o Teu ouvido atento ao choro de quem caiu
+Senhor da minha vida, escuta quem te pediu
+
+[Verso 2]
+Se olhares pra toda a culpa, quem é que vai resistir?
+Mas eu sei que a Tua cruz veio pra me redimir
+A angústia esmagou meus ossos, o pranto molhou a cama
+Mas eu sei que no alto trono, tem um Deus que ainda me ama
+
+[Refrão]
+Das profundezas eu clamo a Ti, ó Senhor
+Escuta a minha voz, recolhe a minha dor
+Seja o Teu ouvido atento ao choro de quem caiu
+Senhor da minha vida, escuta quem te pediu
+
+[Bridge - A capella]
+Eu espero na Tua palavra mais do que o guarda a manhã
+Mais do que o guarda a manhã, espero na Tua salvação
+Tu és o meu único escape, a graça que não é vã
+Vem me arrancar do escuro, estende a Tua mão
+
+[Refrão Final]
+Das profundezas eu clamo a Ti, ó Senhor
+Escuta a minha voz, perdoa o pecador
+Senhor da minha vida, Tu és o meu libertador
+
+─── METADADOS ───
+#️⃣ Hashtags: #AcousticBlues #Salmos130 #Clamor #GospelBlues #Redencao #GracaMisericordia #DeusOuve #Worship #JesusCristo #Esperanca
+📋 Status: [ ] Pendente | [x] Gerado | [ ] Aprovado | [ ] Publicado
+═══════════════════════════════════════════

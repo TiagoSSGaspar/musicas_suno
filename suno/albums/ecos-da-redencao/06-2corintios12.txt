@@ -1,0 +1,79 @@
+═══════════════════════════════════════════
+COIAS MUSIC — FICHA DE PRODUÇÃO
+═══════════════════════════════════════════
+📋 Pipeline: Suno 03 | Modo: ÁLBUM
+💿 Álbum: Ecos da Redenção
+🔢 Faixa: 06 de 6
+
+─── DADOS DA FAIXA ───
+🔥 Título: A Graça que Basta
+🎼 Estilo do Álbum: Blues Gospel
+📖 Referência: 2 Coríntios 12:9
+📖 Versão Bíblica: ARC
+📖 Texto do versículo:
+"A minha graça te basta, porque o meu poder se aperfeiçoa na fraqueza."
+
+💭 Contexto emocional:
+A batalha contra uma dor crônica que não se cura, levando à revelação gloriosa de que Cristo é força no fraco.
+
+─── PROMPT SUNO (variação desta faixa) ───
+Blues Gospel, 65bpm, slide guitar, Hammond organ, mixed duet vocals, gospel choir, soulful build, [key change at bridge]
+
+─── COMPOSIÇÃO ───
+
+[Intro: Slow Blues Guitar Solo]
+
+[Verso 1: Soft, intimate male vocal]
+Eu pedi pra Jesus me curar, eu chorei a noite inteira
+Disse "tira essa dor de mim, Senhor, eu não aguento a espera"
+[Breath]
+Três vezes eu orei de joelho, três vezes pedi perdão
+Mas Jesus não tirou o espinho, Ele tinha outro plano, então
+
+[Short Guitar Lick]
+
+[Refrão: Female vocal joins, building warmth]
+E Jesus me disse: "A Minha graça te basta, filho
+O Meu poder se aperfeiçoa na tua fraqueza"
+[Breath]
+Eu não preciso ser curado pra saber que Ele é bom
+Jesus segura a minha mão, mesmo no meio da tristeza
+
+[Instrumental Break: Electric Guitar Solo, bluesy and crying]
+
+[Verso 2: Male vocal, slightly stronger]
+O mundo diz que fé de verdade não sente dor
+Mas Jesus chorou no Getsêmani e mesmo assim é o Salvador
+[Breath]
+Ele carregou a cruz pesada pra eu não carregar sozinho
+E a mesma mão que foi cravada é a que me tira do caminho
+
+[Refrão: Mixed duet vocals, choir enters softly]
+E Jesus me disse: "A Minha graça te basta, filho
+O Meu poder se aperfeiçoa na tua fraqueza"
+[Breath]
+Eu não preciso ser curado pra saber que Ele é bom
+Jesus segura a minha mão, mesmo no meio da tristeza
+
+[Bridge: Key Change, full choir, powerful but controlled]
+Quando eu sou fraco, Cristo me faz forte!
+Quando eu caio, Cristo me levanta!
+[Breath]
+O espinho fica, mas a graça é maior!
+A dor não manda em mim, quem manda é o Senhor!
+
+[Guitar Solo: Soulful, sustained notes, slow blues bending]
+
+[Refrão Final: Full choir, mixed vocals, crescendo with warmth]
+A Tua graça me basta, Jesus! A Tua graça me basta!
+O Teu poder se aperfeiçoa quando a minha força se gasta!
+[Breath]
+Eu me rendo aos Teus pés, ó Cristo, o meu Senhor!
+Na minha fraqueza Tu reinas, Tu és o meu libertador!
+
+[Outro: Guitar fading, choir humming, Hammond organ sustain]
+
+─── METADADOS ───
+#️⃣ Hashtags: #GospelBlues #2Corintios12 #GracaQueBasta #FeNaFraqueza #PoderDeDeus #BluesWorship #Cristo #Soberania #GospelMusic #EcosDaRedencao
+📋 Status: [ ] Pendente | [x] Gerado | [ ] Aprovado | [ ] Publicado
+═══════════════════════════════════════════

@@ -1,0 +1,75 @@
+═══════════════════════════════════════════
+COIAS MUSIC — FICHA DE PRODUÇÃO
+═══════════════════════════════════════════
+📋 Pipeline: Suno 03 | Modo: ÁLBUM
+💿 Álbum: Ecos da Redenção
+🔢 Faixa: 05 de 6
+
+─── DADOS DA FAIXA ───
+🔥 Título: O Caminho do Justo
+🎼 Estilo do Álbum: Blues Gospel
+📖 Referência: Salmos 1
+📖 Versão Bíblica: ARC
+📖 Texto do versículo:
+"Bem-aventurado o varão que não anda segundo o conselho dos ímpios, nem se detém no caminho dos pecadores, nem se assenta na roda dos escarnecedores. Antes tem o seu prazer na lei do SENHOR, e na sua lei medita de dia e de noite..."
+
+💭 Contexto emocional:
+A firmeza inabalável de uma árvore enraizada próxima às águas da graça, contrastando com a palha seca e vazia (os ímpios) sendo soprada pelo vento. Um blues marcado e profundo, celebrando a constância do justo e o peso da justiça de Deus.
+
+─── PROMPT SUNO (variação desta faixa) ───
+Roots Blues Gospel, 65bpm, acoustic guitar, gritty harmonica playing, deep male vocal, rhythmic foot stomping, raw, [instrumental intro], [guitar solo]
+
+─── COMPOSIÇÃO ───
+
+[Acoustic Blues Intro]
+[Harmonica wail]
+
+[Verse 1]
+Bem-aventurado o homem que não anda segundo o conselho dos ímpios,
+nem se detém no caminho dos pecadores,
+nem se assenta na roda dos escarnecedores.
+Antes tem o seu prazer na lei do SENHOR,
+e na sua lei medita de dia e de noite.
+
+[Chorus]
+Pois será como a árvore plantada junto a ribeiros de águas,
+a qual dá o seu fruto na estação própria,
+e cujas folhas não caem,
+e tudo quanto fizer prosperará.
+
+[Slide Guitar Solo]
+
+[Verse 2]
+Não são assim os ímpios;
+mas são como a moinha que o vento dispersa.
+Por isso os ímpios não subsistirão no juízo,
+nem os pecadores na congregação dos justos.
+
+[Harmonica Solo]
+
+[Chorus]
+Pois será como a árvore plantada junto a ribeiros de águas,
+a qual dá o seu fruto na estação própria,
+e cujas folhas não caem,
+e tudo quanto fizer prosperará.
+
+[Bridge]
+Porque o SENHOR conhece o caminho dos justos;
+porém o caminho dos ímpios perecerá.
+
+[Instrumental Break]
+
+[Final Chorus]
+Pois será como a árvore plantada junto a ribeiros de águas,
+a qual dá o seu fruto na estação própria,
+e cujas folhas não caem,
+e tudo quanto fizer prosperará.
+
+[Outro]
+[Acoustic Guitar Fade Out]
+[End]
+
+─── METADADOS ───
+#️⃣ Hashtags: #Salmos1 #RootsBlues #CaminhoDoJusto #GospelBlues #ArvorePlantada #PalavraDeDeus #Worship #Redencao
+📋 Status: [ ] Pendente | [x] Gerado | [ ] Aprovado | [ ] Publicado
+═══════════════════════════════════════════
