@@ -14,9 +14,10 @@ Esta skill define o processo oficial e rigoroso para a compilação, criação e
 ## FASE 1 — ENTREVISTA DE SESSÃO
 
 **Objetivo:** Configurar a sessão de produção.
-**Ação:** Faça as 3 perguntas ao usuário (uma por vez ou todas juntas, se preferir):
+**Ação:** Faça as perguntas ao usuário para definir a produção:
 1. "Quantas músicas vamos fazer hoje?" (`QUANTIDADE_MUSICAS`)
-2. "O formato é SINGLE (faixas avulsas) ou ALBUM (projeto fechado)?" (`MODO`)
+   - **REGRA LÓGICA MÁXIMA:** Se a quantidade for "1" ou "uma", assuma automaticamente que o Modo é **SINGLE** (faixa avulsa) sem precisar perguntar o modo.
+2. Se a quantidade for maior que 1, pergunte: "O formato é SINGLE (faixas avulsas) ou ALBUM (projeto fechado)?" (`MODO`)
 3. "Qual será o Estilo?" (`ESTILO` - se SINGLE pode ser AUTO, se ALBUM deve ter um estilo definido e exigir o `NOME_ALBUM`).
 Estilos: Blues Gospel, Sertanejo Gospel, Forró Gospel, Worship Balada, Rap Gospel, Rock Cristão, Reggae Gospel, Gospel Épico, Hino Tradicional, Pop Contemporâneo.
 
@@ -61,14 +62,19 @@ Faixa 1 de [N]:
 
 ---
 
-## FASE 3 — MEDITAÇÃO PRÉ-COMPOSIÇÃO (1 faixa por vez)
+## FASE 3 — MEDITAÇÃO & INSPIRAÇÃO PRÉ-COMPOSIÇÃO (1 faixa por vez)
 
-**Objetivo:** Base emocional e teológica.
-**Ação:** Responda de forma profunda para CADA faixa:
-1. Contexto, 2. Cristo, 3. Caráter de Deus, 4. Cruz, 5. Ação Divina, 6. Emoção Humana, 7. Ouvinte, 8. Imagem Central, 9. Última Linha.
+**Objetivo:** Base emocional genuína, teológica, humana e absorção de padrões de excelência.
+**Ação OBRIGATÓRIA:**
+1. Leia o conteúdo do Versículo base na íntegra a partir do contexto bíblico.
+2. **OBRIGATÓRIO LER ARQUIVOS:** Consulte as pastas: 
+   - `projeto_music/ispiracao/` (Third-Day, Gabriela Rocha ou similares)
+   - `salmos-arc/` (Para linguagem autêntica)
+   *Leia no mínimo 2 a 3 letras destas fontes* antes de fazer a meditação, para afinar o tom humano (dor, vulnerabilidade, clamor genuíno) e as estruturas não-clichês de rimas.
+3. Responda de forma profunda para CADA faixa os 9 pilares (Contexto, Cristo, Caráter de Deus, Cruz, Ação Divina, Emoção Humana (foco no clamor e dor real), Ouvinte, Imagem Central, Última Linha).
 
-**Saída Obrigatória Fase 3:** Apresentar a meditação completa para a faixa atual.
-*Pergunta obrigatória:* "Meditação da faixa [N] está boa? Posso avançar para a Fase 4 (Composição)?"
+**Saída Obrigatória Fase 3:** Apresentar as músicas lidas para inspiração e a meditação completa e orgânica para a faixa atual.
+*Pergunta obrigatória:* "Meditação da faixa [N] está boa e alinhada com as inspirações? Posso avançar para a Fase 4 (Composição)?"
 
 ---
 

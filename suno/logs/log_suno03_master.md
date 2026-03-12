@@ -12,6 +12,7 @@
 | 2026-03-09 | ALBUM | Ecos da Redenção | 06 | A Graça que Basta | 2 Coríntios 12:9 | Blues Gospel | 06-2corintios12.txt | Gerado |
 
 ## Versículos Já Produzidos
+- Salmos 46:1-2
 *(lista acumulada — nunca repetir)*
 - Salmos 40:1-2
 - Salmos 130:1-2
@@ -21,5 +22,7 @@
 - 2 Coríntios 12:9
 
 ## Últimos 5 Estilos Usados
+2. Worship Balada
 *(atualizar a cada sessão)*
 1. Blues Gospel
+| 2026-03-12 | SINGLE | — | 01 | O Refúgio Na Tormenta | Salmos 46:1-2 | Worship Balada | O Refugio Na Tormenta.txt | Gerado |
