@@ -3,6 +3,7 @@ const axios = require('axios');
 const fs = require('fs');
 const path = require('path');
 const readline = require('readline');
+const { randomUUID } = require('crypto');
 
 const BASE_DIR = __dirname;
 const SALMOS_DIR = path.join(BASE_DIR, 'salmos-arc');
@@ -11,8 +12,10 @@ const ESTILOS_FILE = path.join(BASE_DIR, 'estilos_suno.txt');
 // 1. Carregar Headers do .env
 const AUTH_BEARER = process.env.SUNO_BEARER;
 const BROWSER_TOKEN = process.env.SUNO_BROWSER_TOKEN;
-const DEVICE_ID = process.env.SUNO_DEVICE_ID || "17d158fd-5210-4000-a6fc-1fb07aeb22bf";
+const DEVICE_ID = process.env.SUNO_DEVICE_ID || '17d158fd-5210-4000-a6fc-1fb07aeb22bf';
 const PERSONA_ID = process.env.SUNO_PERSONA_ID;
+const USER_TIER = process.env.SUNO_USER_TIER || null;
+const TURNSTILE_TOKEN = process.env.SUNO_TURNSTILE_TOKEN || null;
 
 if (!AUTH_BEARER || !BROWSER_TOKEN) {
     console.error("❌ ERRO: SUNO_BEARER e SUNO_BROWSER_TOKEN não definidos no .env!");
@@ -42,11 +45,6 @@ const getHeaders = (browserTokenStr) => ({
     "Referer": "https://suno.com/"
 });
 
-const generateBrowserToken = () => {
-    // Suno usa um token base64 simples contendo o timestamp {"timestamp":1773402077480}
-    const tokenObj = { token: Buffer.from(JSON.stringify({ timestamp: Date.now() })).toString('base64') };
-    return JSON.stringify(tokenObj);
-};
 
 const api = axios.create({
     baseURL: 'https://studio-api.prod.suno.com/api',
@@ -64,8 +62,8 @@ const question = query => new Promise(resolve => rlInput.question(query, resolve
 // Func: Consultar Concorrência Atual
 async function getConcurrentStatus() {
     try {
-        const res = await api.get('/generate/concurrent-status', { headers: getHeaders(generateBrowserToken()) });
-        return res.data; // { running_jobs: 1, max_concurrent: 10 }
+        const res = await api.get('/generate/concurrent-status', { headers: getHeaders() });
+        return res.data;
     } catch (e) {
         console.error("❌ Erro ao consultar limite de concorrência:", e.response?.data || e.message);
         return null;
@@ -75,14 +73,14 @@ async function getConcurrentStatus() {
 // Func: Criar Música
 async function createSong(title, prompt, tags) {
     const payload = {
-        "project_id": "285f4488-c4e8-4a47-8209-4aa29262b952", // WID / Workspace fornecido pela URL
-        "token": null,
+        "project_id": "285f4488-c4e8-4a47-8209-4aa29262b952",
+        "token": TURNSTILE_TOKEN,
         "task": "vox",
         "generation_type": "TEXT",
         "title": title.substring(0, 80),
         "tags": tags.substring(0, 200),
         "negative_tags": "",
-        "mv": "chirp-crow", // v5
+        "mv": "chirp-crow",
         "prompt": prompt.substring(0, 5000),
         "make_instrumental": false,
         "user_uploaded_images_b64": null,
@@ -92,14 +90,26 @@ async function createSong(title, prompt, tags) {
             "is_max_mode": false,
             "is_mumble": false,
             "create_mode": "custom",
+            "user_tier": USER_TIER,
+            "create_session_token": randomUUID(),
             "disable_volume_normalization": false
         },
-        "override_fields": ["prompt", "tags"]
+        "override_fields": ["prompt", "tags"],
+        "cover_clip_id": null,
+        "cover_start_s": null,
+        "cover_end_s": null,
+        "artist_clip_id": null,
+        "artist_start_s": null,
+        "artist_end_s": null,
+        "continue_clip_id": null,
+        "continued_aligned_prompt": null,
+        "continue_at": null,
+        "transaction_uuid": randomUUID()
     };
 
     try {
-        const res = await api.post('/generate/v2-web/', payload, { headers: getHeaders(generateBrowserToken()) });
-        return res.data; // { id: "fec70e88-...", clips: [...] }
+        const res = await api.post('/generate/v2-web/', payload, { headers: getHeaders() });
+        return res.data;
     } catch (e) {
         if (e.response && e.response.status === 402) {
              console.error("❌ Erro 402: Faltam créditos na conta Suno!");
@@ -237,8 +247,8 @@ async function main() {
 
         // Respirar um pouco entre requisições para evitar rate limit do Cloudflare
         if (i < endIdx) {
-            console.log(`⏳ Pausa de 3s antes do próximo...`);
-            await delay(3000);
+            console.log(`⏳ Pausa de 20s antes do próximo...`);
+            await delay(20000);
         }
     }
 
