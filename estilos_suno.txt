@@ -1,0 +1,32 @@
+# Estilos Musicais Suno (Máx: ~120 caracteres)
+# O script de geração em massa irá listar esses estilos base e adicionar os tipos vocais.
+
+[Worship Balada]
+Worship melody, piano intro, slow build-up, acoustic guitar, powerful stadium drums, epic chorus
+
+[Blues Gospel]
+Slow blues gospel, electric guitar solo, soulful bass, hammond organ, raw emotion, steady rhythmic beat
+
+[Sertanejo Gospel]
+Sertanejo universitario, acoustic guitar, accordion, upbeat rhythm, joyful acoustic drums
+
+[Forró Gospel]
+Upbeat forro, accordion, zabumba, triangle, energetic rhythm, rhythmic bass, dancing acoustic beat
+
+[Rock Cristão]
+Christian rock, distorted electric guitars, heavy driving drums, energetic build up, epic solo
+
+[Reggae Gospel]
+Roots reggae, smooth off-beat guitar, deep dub bass, light percussion, rhythmic organ, peaceful
+
+[Gospel Épico]
+Epic orchestral gospel, massive cinematic choir, grand piano intro, huge brass section, triumphant build-up, emotional
+
+[Hino Tradicional]
+Traditional hymn, grand church organ, reverent choir harmony, classical sopranos, solemn pace, majestic atmosphere
+
+[Pop Contemporâneo]
+Modern contemporary pop, synth pop beats, bright acoustic guitar, dynamic electronic drums
+
+[Rap Gospel]
+Hip hop beat, rhythmic spoken word, deep 808 bass, boom bap drums, soulful background singing

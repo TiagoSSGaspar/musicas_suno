@@ -29,3 +29,4 @@ yarn-error.log
 # Arquivos de Injeção e Cache
 /tmp/suno_inject_*
 .DS_Store
+suno_enpoint.json
