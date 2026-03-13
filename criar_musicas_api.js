@@ -80,10 +80,10 @@ async function createSong(title, prompt, tags) {
         "task": "vox",
         "generation_type": "TEXT",
         "title": title.substring(0, 80),
-        "tags": tags.substring(0, 120),
+        "tags": tags.substring(0, 200),
         "negative_tags": "",
         "mv": "chirp-crow", // v5
-        "prompt": prompt,
+        "prompt": prompt.substring(0, 5000),
         "make_instrumental": false,
         "user_uploaded_images_b64": null,
         "persona_id": PERSONA_ID,

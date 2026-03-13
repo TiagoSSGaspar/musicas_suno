@@ -29,4 +29,6 @@ yarn-error.log
 # Arquivos de Injeção e Cache
 /tmp/suno_inject_*
 .DS_Store
+.suno_chrome_profile/
+
 suno_enpoint.json
