@@ -1,7 +1,7 @@
-SALMO 33: Cântico Novo — Arranjo Musical
+SALMO 33: Cântico Novo
 Versão Bíblica: ARC
 
-[Verso 1] (v. 1-3)
+[Verso 1]
 Regozijai-vos no SENHOR, vós justos;
 aos retos fica bem o louvor.
 Louvai ao SENHOR com harpa;
@@ -9,13 +9,13 @@ cantai-lhe com o saltério de dez cordas.
 Cantai-lhe um cântico novo;
 tocai bem e com júbilo.
 
-[Refrão] (v. 4-5)
+[Refrão]
 Porque a palavra do SENHOR é reta,
 e todas as suas obras são fiéis.
 Ele ama a justiça e o juízo;
 a terra está cheia da bondade do SENHOR.
 
-[Verso 2] (v. 6-9)
+[Verso 2]
 Pela palavra do SENHOR foram feitos os céus,
 e todo o exército deles pelo espírito da sua boca.
 Ele ajunta as águas do mar como num montão;
@@ -25,7 +25,7 @@ temam-no todos os moradores do mundo.
 Porque falou, e foi feito;
 mandou, e logo apareceu.
 
-[Verso 3] (v. 10-12)
+[Verso 3]
 O SENHOR desfaz o conselho dos gentios,
 quebranta os intentos dos povos.
 O conselho do SENHOR permanece para sempre;
@@ -33,13 +33,13 @@ os intentos do seu coração de geração em geração.
 Bem-aventurada é a nação cujo Deus é o SENHOR,
 e o povo ao qual escolheu para sua herança.
 
-[Refrão] (v. 4-5)
+[Refrão]
 Porque a palavra do SENHOR é reta,
 e todas as suas obras são fiéis.
 Ele ama a justiça e o juízo;
 a terra está cheia da bondade do SENHOR.
 
-[Verso 4] (v. 13-17)
+[Verso 4]
 O SENHOR olha desde os céus;
 vê todos os filhos dos homens.
 Do lugar da sua habitação olha
@@ -51,13 +51,13 @@ nem se livra o herói pela muita força.
 O cavalo é falsa segurança,
 e não livra ninguém pela sua grande força.
 
-[Bridge] (v. 18-19)
+[Bridge]
 Eis que os olhos do SENHOR estão sobre os que o temem,
 sobre os que esperam na sua misericórdia;
 para lhes livrar as almas da morte,
 e para os conservar vivos na fome.
 
-[Refrão Final] (v. 20-22)
+[Refrão Final]
 A nossa alma espera no SENHOR;
 ele é o nosso auxílio e o nosso escudo.
 Pois nele se alegra o nosso coração,

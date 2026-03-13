@@ -1,7 +1,7 @@
-SALMO 136: Eterna Benignidade — Arranjo Musical
+SALMO 136: Eterna Benignidade
 Versão Bíblica: ARC
 
-[Verso 1] (v. 1-3)
+[Verso 1]
 Louvai ao SENHOR, porque ele é bom;
 porque a sua benignidade dura para sempre.
 Louvai ao Deus dos deuses;
@@ -9,7 +9,7 @@ porque a sua benignidade dura para sempre.
 Louvai ao Senhor dos senhores;
 porque a sua benignidade dura para sempre.
 
-[Verso 2] (v. 4-9)
+[Verso 2]
 Àquele que só faz grandes maravilhas;
 porque a sua benignidade dura para sempre.
 Àquele que por entendimento fez os céus;
@@ -23,10 +23,10 @@ porque a sua benignidade dura para sempre.
 A lua e as estrelas para governarem de noite;
 porque a sua benignidade dura para sempre.
 
-[Refrão] (v. 1b)
+[Refrão]
 Porque a sua benignidade dura para sempre.
 
-[Verso 3] (v. 10-15)
+[Verso 3]
 Àquele que feriu o Egito nos seus primogénitos;
 porque a sua benignidade dura para sempre.
 E tirou a Israel do meio deles;
@@ -40,7 +40,7 @@ porque a sua benignidade dura para sempre.
 Mas derrubou a Faraó com o seu exército no Mar Vermelho;
 porque a sua benignidade dura para sempre.
 
-[Bridge] (v. 16-22)
+[Bridge]
 Àquele que guiou o seu povo pelo deserto;
 porque a sua benignidade dura para sempre.
 Àquele que feriu grandes reis;
@@ -56,7 +56,7 @@ porque a sua benignidade dura para sempre.
 Em herança a Israel, seu servo;
 porque a sua benignidade dura para sempre.
 
-[Refrão Final] (v. 23-26)
+[Refrão Final]
 Que se lembrou de nós na nossa baixeza;
 porque a sua benignidade dura para sempre.
 E nos remiu dos nossos inimigos;

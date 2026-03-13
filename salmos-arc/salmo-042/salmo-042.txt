@@ -1,7 +1,7 @@
-SALMO 42: Como o Cervo Brama — Arranjo Musical
+SALMO 42: Como o Cervo Brama
 Versão Bíblica: ARC
 
-[Verso 1] (v. 1-4)
+[Verso 1]
 Como o cervo brama pelas correntes das águas,
 assim suspira a minha alma por ti, ó Deus!
 A minha alma tem sede de Deus, do Deus vivo;
@@ -13,13 +13,13 @@ pois eu ia com a multidão;
 ia com eles à casa de Deus,
 com voz de alegria e de louvor, com a multidão que satisfazia a festa.
 
-[Refrão] (v. 5)
+[Refrão]
 Por que estás abatida, ó minha alma?
 E por que te perturbas em mim?
 Espera em Deus, pois ainda o louvarei.
 Ele é o auxílio da minha face, e o meu Deus.
 
-[Verso 2] (v. 6-7)
+[Verso 2]
 Ó meu Deus, dentro de mim a minha alma se abate;
 por isso me lembro de ti desde a terra do Jordão,
 e desde os hermons, e desde o monte de Mizar.
@@ -27,7 +27,7 @@ Um abismo chama outro abismo,
 ao ruído das tuas catadupas;
 todas as tuas ondas e as tuas vagas têm passado sobre mim.
 
-[Verso 3] (v. 8-10)
+[Verso 3]
 Todavia o SENHOR mandará de dia a sua benignidade,
 e de noite a sua canção estará comigo,
 uma oração ao Deus da minha vida.
@@ -37,7 +37,7 @@ Enquanto os meus ossos se quebrantam,
 os meus adversários me insultam,
 dizendo-me cada dia: Onde está o teu Deus?
 
-[Refrão Final] (v. 11)
+[Refrão Final]
 Por que estás abatida, ó minha alma?
 E por que te perturbas em mim?
 Espera em Deus, pois ainda o louvarei.

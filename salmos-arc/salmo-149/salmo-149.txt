@@ -1,7 +1,7 @@
-SALMO 149: Cântico Novo dos Santos — Arranjo Musical
+SALMO 149: Cântico Novo dos Santos
 Versão Bíblica: ARC
 
-[Verso 1] (v. 1-3)
+[Verso 1]
 Louvai ao SENHOR.
 Cantai ao SENHOR um cântico novo,
 e o seu louvor na congregação dos santos.
@@ -10,13 +10,13 @@ regozijemse os filhos de Sião no seu Rei.
 Louvem o seu nome com danças;
 cantem-lhe o seu louvor com tamboril e harpa.
 
-[Refrão] (v. 4-5)
+[Refrão]
 Porque o SENHOR se agrada do seu povo;
 ornará os mansos com a salvação.
 Exultem os santos na glória;
 cantem de alegria nos seus leitos.
 
-[Refrão Final] (v. 6-9)
+[Refrão Final]
 Os altos louvores de Deus se achem nas suas gargantas,
 e espadas de dois fios nas suas mãos,
 para tomarem vingança dos gentios,

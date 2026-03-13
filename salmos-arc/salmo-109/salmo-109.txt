@@ -1,7 +1,7 @@
-SALMO 109: Deus do Meu Louvor — Arranjo Musical
+SALMO 109: Deus do Meu Louvor
 Versão Bíblica: ARC
 
-[Verso 1] (v. 1-5)
+[Verso 1]
 Ó Deus do meu louvor, não te cales,
 pois a boca do ímpio e a boca do enganador
 estão abertas contra mim;
@@ -13,7 +13,7 @@ mas eu faço oração.
 E puseram sobre mim mal por bem,
 e ódio pelo meu amor.
 
-[Verso 2] (v. 6-13)
+[Verso 2]
 Põe sobre ele um ímpio,
 e Satanás esteja à sua mão direita.
 Quando for julgado, saia condenado;
@@ -31,7 +31,7 @@ nem haja quem favoreça os seus órfãos.
 Seja a sua posteridade cortada;
 na seguinte geração se lhes apague o nome.
 
-[Verso 3] (v. 14-20)
+[Verso 3]
 Esteja na memória do SENHOR a iniquidade de seus pais,
 e não se apague o pecado de sua mãe.
 Estejam sempre perante o SENHOR,
@@ -49,7 +49,7 @@ e como um cinto com que esteja cingido continuamente.
 Seja este da parte do SENHOR o galardão dos meus adversários,
 e dos que falam mal contra a minha alma.
 
-[Bridge] (v. 21-25)
+[Bridge]
 Mas tu, ó DEUS, o Senhor, obra por mim,
 por amor do teu nome;
 porque a tua benignidade é boa, livra-me.
@@ -62,13 +62,13 @@ e a minha carne emagrece.
 E me tornei também o seu opróbrio;
 quando me veem, meneiamla cabeça.
 
-[Refrão] (v. 26-27)
+[Refrão]
 Ajuda-me, SENHOR meu Deus;
 salva-me segundo a tua benignidade.
 Para que saibam que isto é da tua mão,
 e que tu, SENHOR, o fizeste.
 
-[Refrão Final] (v. 30-31)
+[Refrão Final]
 Louvarei ao SENHOR grandemente com a minha boca;
 e o louvarei no meio da multidão.
 Pois ele se porá à mão direita do pobre,

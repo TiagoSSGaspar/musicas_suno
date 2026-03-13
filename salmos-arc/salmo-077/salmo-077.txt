@@ -1,7 +1,7 @@
-SALMO 77: Meditarei nas Tuas Obras — Arranjo Musical
+SALMO 77: Meditarei nas Tuas Obras
 Versão Bíblica: ARC
 
-[Verso 1] (v. 1-6)
+[Verso 1]
 Eu clamei a Deus com a minha voz;
 a Deus levantei a minha voz, e ele inclinou para mim os ouvidos.
 No dia da minha angústia busquei ao Senhor;
@@ -17,13 +17,13 @@ De noite me lembro do meu cântico;
 medito no meu coração,
 e o meu espírito esquadrinha.
 
-[Refrão] (v. 13-14)
+[Refrão]
 O teu caminho, ó Deus, é no santuário.
 Quem é Deus grande como o nosso Deus?
 Tu és o Deus que fazes maravilhas;
 tu fizeste notório o teu poder entre os povos.
 
-[Verso 2] (v. 7-12)
+[Verso 2]
 Rejeitará o Senhor para sempre?
 E não tornará a ser favorável?
 Cessou para sempre a sua benignidade?
@@ -37,13 +37,13 @@ certamente eu me lembrarei das tuas maravilhas da antiguidade.
 Meditarei também em todas as tuas obras,
 e falarei dos teus feitos.
 
-[Refrão] (v. 13-14)
+[Refrão]
 O teu caminho, ó Deus, é no santuário.
 Quem é Deus grande como o nosso Deus?
 Tu és o Deus que fazes maravilhas;
 tu fizeste notório o teu poder entre os povos.
 
-[Bridge] (v. 15-19)
+[Bridge]
 Com o teu braço remiste o teu povo,
 os filhos de Jacó e de José. (Selá)
 As águas te viram, ó Deus,
@@ -58,6 +58,6 @@ a terra se abalou e tremeu.
 O teu caminho é no mar, e as tuas veredas nas grandes águas,
 e os teus passos não são conhecidos.
 
-[Refrão Final] (v. 20)
+[Refrão Final]
 Guiaste o teu povo, como a um rebanho,
 pela mão de Moisés e de Arão.

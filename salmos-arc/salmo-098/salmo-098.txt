@@ -1,7 +1,7 @@
-SALMO 98: Cântico Novo ao SENHOR — Arranjo Musical
+SALMO 98: Cântico Novo ao SENHOR
 Versão Bíblica: ARC
 
-[Verso 1] (v. 1-3)
+[Verso 1]
 Cantai ao SENHOR um cântico novo,
 porque fez coisas maravilhosas;
 a sua mão direita e o seu braço santo
@@ -12,7 +12,7 @@ Lembrou-se da sua benignidade, e da sua fidelidade
 para com a casa de Israel;
 todas as extremidades da terra viram a salvação do nosso Deus.
 
-[Refrão] (v. 4-6)
+[Refrão]
 Celebrai com júbilo ao SENHOR, toda a terra;
 exclamai, regozijai-vos e cantai louvores.
 Cantai ao SENHOR com harpa;
@@ -20,13 +20,13 @@ com harpa e voz de canto.
 Com trombetas e som de buzinas,
 jubilai perante o SENHOR, o Rei.
 
-[Bridge] (v. 7-8)
+[Bridge]
 Brame o mar com a sua plenitude;
 o mundo, e os que nele habitam.
 Os rios batam as palmas;
 regozijem-se também os montes,
 
-[Refrão Final] (v. 9)
+[Refrão Final]
 perante o SENHOR, porque vem a julgar a terra.
 Julgará o mundo com justiça,
 e os povos com equidade.

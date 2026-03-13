@@ -1,19 +1,19 @@
-SALMO 9: O Nome do Altíssimo — Arranjo Musical
+SALMO 9: O Nome do Altíssimo
 Versão Bíblica: ARC
 
-[Verso 1] (v. 1-2)
+[Verso 1]
 Eu te louvarei, SENHOR, de todo o meu coração;
 contarei todas as tuas maravilhas.
 Em ti me alegrarei e saltarei de prazer;
 cantarei louvores ao teu nome, ó Altíssimo.
 
-[Refrão] (v. 7-8)
+[Refrão]
 Mas o SENHOR permanece para sempre;
 já preparou o seu tribunal para julgar.
 Ele mesmo julgará o mundo com justiça;
 ministrará juízo aos povos com retidão.
 
-[Verso 2] (v. 3-6)
+[Verso 2]
 Retrocedendo os meus inimigos, tropeçarão e perecerão diante de ti.
 Pois satisfizeste o meu direito e a minha causa;
 assentaste-te no tribunal, julgando justamente.
@@ -22,13 +22,13 @@ apagaste o seu nome para sempre e eternamente.
 Ó inimigo, consumaram-se as assolações para sempre;
 e destruíste as cidades, e a sua memória pereceu com elas.
 
-[Refrão] (v. 7-8)
+[Refrão]
 Mas o SENHOR permanece para sempre;
 já preparou o seu tribunal para julgar.
 Ele mesmo julgará o mundo com justiça;
 ministrará juízo aos povos com retidão.
 
-[Verso 3] (v. 9-12)
+[Verso 3]
 O SENHOR será também um alto refúgio para o oprimido;
 um alto refúgio em tempos de angústia.
 E em ti confiarão os que conhecem o teu nome;
@@ -38,7 +38,7 @@ anunciai entre os povos os seus feitos.
 Porque ele, que pede conta do sangue, se lembrou deles;
 não se esqueceu do clamor dos aflitos.
 
-[Verso 4] (v. 13-14)
+[Verso 4]
 Tem misericórdia de mim, SENHOR;
 olha a minha aflição que sofro dos que me odeiam,
 tu que me levantas das portas da morte,
@@ -46,7 +46,7 @@ para que conte todos os teus louvores
 nas portas da filha de Sião,
 e me alegre na tua salvação.
 
-[Bridge] (v. 15-18)
+[Bridge]
 Afundaram-se os gentios na cova que fizeram;
 na rede que ocultaram ficou preso o seu pé.
 O SENHOR se fez conhecer, executou juízo;
@@ -56,7 +56,7 @@ e todas as nações que se esquecem de Deus.
 Porque o necessitado não será esquecido para sempre,
 nem a esperança dos pobres perecerá perpetuamente.
 
-[Refrão Final] (v. 19-20)
+[Refrão Final]
 Levanta-te, SENHOR; não prevaleça o homem;
 sejam julgados os gentios na tua presença.
 Põe-lhes terror, ó SENHOR;

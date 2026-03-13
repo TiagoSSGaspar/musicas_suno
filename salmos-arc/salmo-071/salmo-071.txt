@@ -1,7 +1,7 @@
-SALMO 71: Não Me Rejeites na Velhice — Arranjo Musical
+SALMO 71: Não Me Rejeites na Velhice
 Versão Bíblica: ARC
 
-[Verso 1] (v. 1-4)
+[Verso 1]
 Em ti, SENHOR, confio;
 nunca me deixes confundido.
 Livra-me na tua justiça, e resgata-me;
@@ -13,14 +13,14 @@ pois tu és a minha rocha e a minha fortaleza.
 Livra-me, Deus meu, das mãos do ímpio,
 das mãos do homem injusto e cruel.
 
-[Refrão] (v. 5-6)
+[Refrão]
 Pois tu és a minha esperança, Senhor DEUS;
 tu és a minha confiança desde a minha mocidade.
 Desde o ventre de minha mãe tu és o meu amparo;
 do ventre de minha mãe tu me tiraste;
 o meu louvor será para ti continuamente.
 
-[Verso 2] (v. 7-11)
+[Verso 2]
 Sou como um prodígio para muitos,
 mas tu és o meu refúgio forte.
 Encha-se a minha boca do teu louvor,
@@ -32,14 +32,14 @@ e os que espiam a minha alma consultam juntos, dizendo:
 Deus o desamparou; persegui-o e tomai-o,
 porque não há quem o livre.
 
-[Refrão] (v. 5-6)
+[Refrão]
 Pois tu és a minha esperança, Senhor DEUS;
 tu és a minha confiança desde a minha mocidade.
 Desde o ventre de minha mãe tu és o meu amparo;
 do ventre de minha mãe tu me tiraste;
 o meu louvor será para ti continuamente.
 
-[Verso 3] (v. 12-16)
+[Verso 3]
 Ó Deus, não te alongues de mim;
 Deus meu, apressa-te em socorrer-me.
 Sejam confundidos e consumidos os que são adversários da minha alma;
@@ -52,7 +52,7 @@ pois não conheço o seu número.
 Sairei na força do Senhor DEUS;
 farei menção da tua justiça, e só da tua.
 
-[Bridge] (v. 17-19)
+[Bridge]
 Ensinaste-me, ó Deus, desde a minha mocidade;
 e até aqui tenho anunciado as tuas maravilhas.
 Agora também, quando estou velho e de cabelos brancos,
@@ -63,7 +63,7 @@ Também, ó Deus, a tua justiça está muito alta;
 pois fizeste grandes coisas;
 ó Deus, quem é semelhante a ti?
 
-[Refrão Final] (v. 22-24)
+[Refrão Final]
 Também eu te louvarei com o instrumento de saltério,
 e a tua verdade, ó Deus meu;
 cantarei a ti com a harpa, ó Santo de Israel.

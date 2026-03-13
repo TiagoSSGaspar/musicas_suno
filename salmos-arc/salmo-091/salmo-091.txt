@@ -1,7 +1,7 @@
-SALMO 91: Abrigo do Altíssimo — Arranjo Musical
+SALMO 91: Abrigo do Altíssimo
 Versão Bíblica: ARC
 
-[Verso 1] (v. 1-4)
+[Verso 1]
 Aquele que habita no esconderijo do Altíssimo,
 à sombra do Onipotente descansará.
 Direi do SENHOR: Ele é o meu Deus, o meu refúgio,
@@ -12,7 +12,7 @@ Ele te cobrirá com as suas penas,
 e debaixo das suas asas te confiarás;
 a sua verdade será o teu escudo e broquel.
 
-[Refrão] (v. 14-15)
+[Refrão]
 Porquanto tão encarecidamente me amou,
 também eu o livrarei; pô-lo-ei em retiro alto,
 porque conheceu o meu nome.
@@ -20,7 +20,7 @@ Ele me invocará, e eu lhe responderei;
 estarei com ele na angústia;
 dela o retirarei, e o glorificarei.
 
-[Verso 2] (v. 5-8)
+[Verso 2]
 Não temerás espanto noturno,
 nem seta que voe de dia,
 nem peste que ande na escuridão,
@@ -30,7 +30,7 @@ mas não chegará a ti.
 Somente com os teus olhos contemplarás,
 e verás a recompensa dos ímpios.
 
-[Verso 3] (v. 9-13)
+[Verso 3]
 Porque tu, ó SENHOR, és o meu refúgio.
 No Altíssimo fizeste a tua habitação.
 Nenhum mal te sucederá,
@@ -42,7 +42,7 @@ para que não tropeces com o teu pé em pedra.
 Pisarás o leão e a áspide;
 calcarás aos pés o filho do leão e a serpente.
 
-[Refrão Final] (v. 14-16)
+[Refrão Final]
 Porquanto tão encarecidamente me amou,
 também eu o livrarei; pô-lo-ei em retiro alto,
 porque conheceu o meu nome.

@@ -1,7 +1,7 @@
-SALMO 102: A Oração do Aflito — Arranjo Musical
+SALMO 102: A Oração do Aflito
 Versão Bíblica: ARC
 
-[Verso 1] (v. 1-7)
+[Verso 1]
 SENHOR, ouve a minha oração,
 e chegue a ti o meu clamor.
 Não escondas de mim o teu rosto no dia da minha angústia;
@@ -17,13 +17,13 @@ Sou semelhante ao pelicano no deserto;
 sou como um mocho das ruínas.
 Vigio, e sou como o pardal solitário no telhado.
 
-[Refrão] (v. 12-13)
+[Refrão]
 Mas tu, SENHOR, permanecerás para sempre,
 e a tua memória de geração em geração.
 Tu te levantarás e terás piedade de Sião;
 pois o tempo de ter piedade dela, o tempo determinado, já veio.
 
-[Verso 2] (v. 8-11)
+[Verso 2]
 Os meus inimigos me afrontam todo o dia;
 os que estão furiosos contra mim juram contra mim.
 Pois tenho comido cinza como pão,
@@ -33,7 +33,7 @@ pois tu me levantaste e me arrojaste.
 Os meus dias são como a sombra que declina,
 e eu me vou secando como a erva.
 
-[Verso 3] (v. 14-17)
+[Verso 3]
 Porque os teus servos têm prazer nas suas pedras,
 e se compadecem do seu pó.
 Então os gentios temerão o nome do SENHOR,
@@ -43,7 +43,7 @@ aparecerá na sua glória.
 Atenderá à oração do desamparado,
 e não desprezará a sua oração.
 
-[Bridge] (v. 18-22)
+[Bridge]
 Isto se escreverá para a geração futura;
 e o povo que se criar louvará ao SENHOR.
 Pois olhou desde o alto do seu santuário;
@@ -55,13 +55,13 @@ e o seu louvor em Jerusalém,
 quando os povos se ajuntarem,
 e os reinos, para servirem ao SENHOR.
 
-[Verso 4] (v. 23-24)
+[Verso 4]
 Abateu a minha força no caminho;
 abreviou os meus dias.
 Eu disse: Deus meu, não me leves no meio dos meus dias;
 os teus anos são de geração em geração.
 
-[Refrão Final] (v. 25-28)
+[Refrão Final]
 Desde a antiguidade fundaste a terra,
 e os céus são obra das tuas mãos.
 Eles perecerão, mas tu permanecerás;

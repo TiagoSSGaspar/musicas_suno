@@ -1,7 +1,7 @@
-SALMO 96: Cantai ao SENHOR — Arranjo Musical
+SALMO 96: Cantai ao SENHOR
 Versão Bíblica: ARC
 
-[Verso 1] (v. 1-3)
+[Verso 1]
 Cantai ao SENHOR um cântico novo,
 cantai ao SENHOR toda a terra.
 Cantai ao SENHOR, bendizei o seu nome;
@@ -9,7 +9,7 @@ anunciai a sua salvação de dia em dia.
 Declarai a sua glória entre os gentios,
 e as suas maravilhas entre todos os povos.
 
-[Refrão] (v. 4-6)
+[Refrão]
 Porque grande é o SENHOR, e mui digno de louvor,
 tremendo é sobre todos os deuses.
 Porque todos os deuses dos povos são ídolos;
@@ -17,7 +17,7 @@ mas o SENHOR fez os céus.
 Glória e majestade estão diante dele,
 força e formosura no seu santuário.
 
-[Verso 2] (v. 7-9)
+[Verso 2]
 Dai ao SENHOR, ó famílias dos povos,
 dai ao SENHOR glória e força.
 Dai ao SENHOR a glória devida ao seu nome;
@@ -25,12 +25,12 @@ trazei ofertas, e entrai nos seus átrios.
 Adorai ao SENHOR na beleza da santidade;
 tremei diante dele toda a terra.
 
-[Bridge] (v. 10)
+[Bridge]
 Dizei entre os gentios que o SENHOR reina;
 o mundo também se firmará para que não se abale.
 Ele julgará os povos com equidade.
 
-[Refrão Final] (v. 11-13)
+[Refrão Final]
 Alegrem-se os céus, e regozije-se a terra;
 brame o mar com a sua plenitude.
 Alegre-se o campo com tudo o que nele há;

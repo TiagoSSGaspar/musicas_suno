@@ -1,7 +1,7 @@
-SALMO 18: Minha Rocha e Fortaleza — Arranjo Musical
+SALMO 18: Minha Rocha e Fortaleza
 Versão Bíblica: ARC
 
-[Verso 1] (v. 1-3)
+[Verso 1]
 Eu te amarei, ó SENHOR, fortaleza minha.
 O SENHOR é o meu rochedo, e o meu lugar forte, e o meu libertador;
 o meu Deus, a minha fortaleza, em quem confio;
@@ -9,13 +9,13 @@ o meu escudo, a força da minha salvação, e o meu alto refúgio.
 Invocarei o nome do SENHOR, que é digno de louvor,
 e ficarei livre dos meus inimigos.
 
-[Refrão] (v. 28-29)
+[Refrão]
 Porque tu acenderás a minha candeia;
 o SENHOR meu Deus iluminará as minhas trevas.
 Porque contigo entrei pelo meio dum esquadrão;
 com o meu Deus saltei uma muralha.
 
-[Verso 2] (v. 4-6)
+[Verso 2]
 Cingiram-me os cordéis da morte,
 e as torrentes de Belial me assombraram.
 Os cordéis do inferno me cingiram,
@@ -25,7 +25,7 @@ e clamei ao meu Deus;
 desde o seu templo ouviu a minha voz,
 e o meu clamor perante a sua face chegou aos seus ouvidos.
 
-[Verso 3] (v. 7-15)
+[Verso 3]
 Então a terra se abalou e tremeu;
 e os fundamentos dos montes também se moveram e se abalaram,
 porquanto se indignou.
@@ -51,13 +51,13 @@ e foram descobertos os fundamentos do mundo,
 pela tua repreensão, SENHOR,
 ao sopro do vento das tuas narinas.
 
-[Refrão] (v. 28-29)
+[Refrão]
 Porque tu acenderás a minha candeia;
 o SENHOR meu Deus iluminará as minhas trevas.
 Porque contigo entrei pelo meio dum esquadrão;
 com o meu Deus saltei uma muralha.
 
-[Verso 4] (v. 16-19)
+[Verso 4]
 Enviou desde o alto e me tomou;
 tirou-me das muitas águas.
 Livrou-me do meu inimigo forte
@@ -68,7 +68,7 @@ mas o SENHOR foi o meu amparo.
 Trouxe-me para um lugar espaçoso;
 livrou-me, porque tinha prazer em mim.
 
-[Verso 5] (v. 20-27)
+[Verso 5]
 Recompensou-me o SENHOR conforme a minha justiça;
 conforme a pureza das minhas mãos me retribuiu.
 Porque guardei os caminhos do SENHOR,
@@ -84,7 +84,7 @@ com o varão perfeito te mostras perfeito;
 com o puro te mostras puro;
 e com o perverso te mostras contrário.
 
-[Verso 6] (v. 30-36)
+[Verso 6]
 O caminho de Deus é perfeito;
 a palavra do SENHOR é provada;
 é um escudo para todos os que nele confiam.
@@ -102,7 +102,7 @@ e a tua mansidão me engrandeceu.
 Alargaste os meus passos debaixo de mim,
 para que os meus artelhos não vacilassem.
 
-[Bridge] (v. 37-45)
+[Bridge]
 Persegui os meus inimigos, e os alcancei;
 não voltei senão depois de os ter consumido.
 Atravessei-os, de modo que não se puderam levantar;
@@ -123,7 +123,7 @@ os filhos de estranhos se sujeitaram a mim.
 Os filhos de estranhos se consumiram,
 e saíram tremendo dos seus esconderijos.
 
-[Refrão Final] (v. 46-50)
+[Refrão Final]
 O SENHOR vive; e bendito seja o meu rochedo;
 e exaltado seja o Deus da minha salvação;
 o Deus que me vingou e me sujeitou os povos;

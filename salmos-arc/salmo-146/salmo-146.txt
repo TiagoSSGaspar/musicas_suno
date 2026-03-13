@@ -1,7 +1,7 @@
-SALMO 146: Bem-Aventurado — Arranjo Musical
+SALMO 146: Bem-Aventurado
 Versão Bíblica: ARC
 
-[Verso 1] (v. 1-4)
+[Verso 1]
 Louvai ao SENHOR.
 Louva, ó minha alma, ao SENHOR.
 Louvarei ao SENHOR durante a minha vida;
@@ -11,14 +11,14 @@ nem no filho do homem, em quem não há salvação.
 Sai-lhe o espírito, volta para a sua terra;
 naquele mesmo dia perecem os seus pensamentos.
 
-[Refrão] (v. 5-6)
+[Refrão]
 Bem-aventurado aquele que tem o Deus de Jacó por seu auxílio,
 e cuja esperança está posta no SENHOR seu Deus;
 o que fez os céus e a terra,
 o mar e tudo quanto neles há;
 o que guarda a verdade para sempre.
 
-[Bridge] (v. 7-9)
+[Bridge]
 O que faz justiça aos oprimidos,
 o que dá pão aos famintos.
 O SENHOR solta os encarcerados.
@@ -29,7 +29,7 @@ O SENHOR guarda os estrangeiros;
 sustém o órfão e a viúva;
 mas transtorna o caminho dos ímpios.
 
-[Refrão Final] (v. 10)
+[Refrão Final]
 O SENHOR reinará eternamente;
 o teu Deus, ó Sião, de geração em geração.
 Louvai ao SENHOR.

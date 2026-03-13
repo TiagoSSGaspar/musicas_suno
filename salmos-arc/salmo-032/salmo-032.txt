@@ -1,18 +1,18 @@
-SALMO 32: A Alegria do Perdão — Arranjo Musical
+SALMO 32: A Alegria do Perdão
 Versão Bíblica: ARC
 
-[Verso 1] (v. 1-2)
+[Verso 1]
 Bem-aventurado aquele cuja transgressão é perdoada,
 e cujo pecado é coberto.
 Bem-aventurado o homem a quem o SENHOR não imputa maldade,
 e em cujo espírito não há engano.
 
-[Refrão] (v. 7)
+[Refrão]
 Tu és o lugar em que me escondo;
 tu me preservas da angústia;
 tu me cinges de alegres cantos de livramento. (Selá)
 
-[Verso 2] (v. 3-5)
+[Verso 2]
 Quando eu guardei silêncio, envelheceram os meus ossos
 pelo meu bramido em todo o dia.
 Porque de dia e de noite a tua mão pesava sobre mim;
@@ -22,18 +22,18 @@ e a minha maldade não encobri.
 Dizia eu: Confessarei ao SENHOR as minhas transgressões;
 e tu perdoaste a maldade do meu pecado. (Selá)
 
-[Verso 3] (v. 6)
+[Verso 3]
 Por isso todo aquele que é santo orará a ti,
 a tempo de te poder achar;
 até no transbordar de muitas águas,
 estas a ele não chegarão.
 
-[Refrão] (v. 7)
+[Refrão]
 Tu és o lugar em que me escondo;
 tu me preservas da angústia;
 tu me cinges de alegres cantos de livramento. (Selá)
 
-[Bridge] (v. 8-9)
+[Bridge]
 Instruir-te-ei, e ensinar-te-ei o caminho que deves seguir;
 guiar-te-ei com os meus olhos.
 Não sejais como o cavalo, nem como a mula,
@@ -41,7 +41,7 @@ que não têm entendimento,
 cuja boca precisa de cabresto e freio
 para que não se cheguem a ti.
 
-[Refrão Final] (v. 10-11)
+[Refrão Final]
 Muitas são as dores do ímpio,
 mas àquele que confia no SENHOR
 a misericórdia o cercará.

@@ -1,7 +1,7 @@
-SALMO 135: O Nosso Deus É Grande — Arranjo Musical
+SALMO 135: O Nosso Deus É Grande
 Versão Bíblica: ARC
 
-[Verso 1] (v. 1-4)
+[Verso 1]
 Louvai ao SENHOR.
 Louvai o nome do SENHOR;
 louvai-o, servos do SENHOR,
@@ -12,13 +12,13 @@ cantai louvores ao seu nome, porque é agradável.
 Pois o SENHOR escolheu para si a Jacó,
 e a Israel para seu próprio tesouro.
 
-[Refrão] (v. 5-6)
+[Refrão]
 Porque eu sei que o SENHOR é grande;
 e que o nosso Senhor está acima de todos os deuses.
 Tudo o que o SENHOR quis, fez,
 nos céus e na terra, nos mares e em todos os abismos.
 
-[Verso 2] (v. 7-12)
+[Verso 2]
 Faz subir os vapores das extremidades da terra;
 faz os relâmpagos para a chuva;
 tira os ventos dos seus tesouros.
@@ -33,13 +33,13 @@ e todos os reinos de Canaã.
 E deu a terra deles em herança,
 em herança a Israel, seu povo.
 
-[Bridge] (v. 13-14)
+[Bridge]
 O teu nome, SENHOR, é eterno;
 a tua memória, SENHOR, de geração em geração.
 Pois o SENHOR julgará o seu povo,
 e se compadecerá dos seus servos.
 
-[Verso 3] (v. 15-18)
+[Verso 3]
 Os ídolos dos gentios são prata e ouro,
 obra das mãos dos homens.
 Têm boca, mas não falam;
@@ -49,7 +49,7 @@ nem há respiro algum nas suas bocas.
 Semelhantes a eles se tornem os que os fazem,
 e todos os que confiam neles.
 
-[Refrão Final] (v. 19-21)
+[Refrão Final]
 Casa de Israel, bendizei ao SENHOR;
 casa de Arão, bendizei ao SENHOR.
 Casa de Levi, bendizei ao SENHOR;

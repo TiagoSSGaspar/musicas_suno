@@ -1,7 +1,7 @@
-SALMO 144: Cântico Novo de Davi — Arranjo Musical
+SALMO 144: Cântico Novo de Davi
 Versão Bíblica: ARC
 
-[Verso 1] (v. 1-4)
+[Verso 1]
 Bendito seja o SENHOR, minha rocha,
 que ensina as minhas mãos para a peleja
 e os meus dedos para a guerra.
@@ -14,7 +14,7 @@ E o filho do homem, para que o estimes?
 O homem é semelhante à vaidade;
 os seus dias são como a sombra que passa.
 
-[Verso 2] (v. 5-8)
+[Verso 2]
 Abaixa, SENHOR, os teus céus, e desce;
 toca nos montes, e fumegarão.
 Vibra os teus relâmpagos, e dissipa-os;
@@ -25,20 +25,20 @@ das mãos dos filhos estranhos,
 cuja boca fala vaidade,
 e cuja mão direita é a destra de falsidade.
 
-[Refrão] (v. 9-10)
+[Refrão]
 A ti, ó Deus, cantarei um cântico novo;
 com o saltério de dez cordas te cantarei louvores.
 Tu que dás a salvação aos reis,
 e que livras a Davi, teu servo, da espada maligna.
 
-[Bridge] (v. 11-12)
+[Bridge]
 Livra-me e arrebata-me das mãos dos filhos estranhos,
 cuja boca fala vaidade,
 e cuja mão direita é a destra de falsidade.
 Para que os nossos filhos sejam como plantas crescidas na sua mocidade;
 as nossas filhas, como pedras de esquina, lavradas como colunas de um palácio.
 
-[Refrão Final] (v. 13-15)
+[Refrão Final]
 Para que as nossas despensas se encham de toda a casta de provisões;
 para que os nossos rebanhos produzam a milhares
 e a dezenas de milhares nas nossas ruas.

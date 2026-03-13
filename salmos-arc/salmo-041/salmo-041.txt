@@ -1,7 +1,7 @@
-SALMO 41: Bem-Aventurado o Que Cuida do Pobre — Arranjo Musical
+SALMO 41: Bem-Aventurado o Que Cuida do Pobre
 Versão Bíblica: ARC
 
-[Verso 1] (v. 1-3)
+[Verso 1]
 Bem-aventurado aquele que atende ao pobre;
 o SENHOR o livrará no dia do mal.
 O SENHOR o livrará e o conservará em vida;
@@ -10,13 +10,13 @@ e tu não o entregarás à vontade dos seus inimigos.
 O SENHOR o sustentará no leito da enfermidade;
 tu o restabelecerás da sua cama de doença.
 
-[Refrão] (v. 11-12)
+[Refrão]
 Por isto conheço eu que tu me favoreces,
 porque o meu inimigo não triunfa sobre mim.
 Quanto a mim, tu me sustentas na minha sinceridade,
 e me pões diante da tua face para sempre.
 
-[Verso 2] (v. 4-9)
+[Verso 2]
 Dizia eu: SENHOR, tem misericórdia de mim;
 sara a minha alma, porque pequei contra ti.
 Os meus inimigos falam mal de mim, dizendo:
@@ -31,11 +31,11 @@ e, agora que está de cama, nunca mais se levantará.
 Até o meu amigo íntimo, em quem eu tanto confiava,
 que comia do meu pão, levantou contra mim o seu calcanhar.
 
-[Bridge] (v. 10)
+[Bridge]
 Mas tu, SENHOR, tem misericórdia de mim, e levanta-me,
 para que eu lhes dê a recompensa.
 
-[Refrão Final] (v. 13)
+[Refrão Final]
 Bendito seja o SENHOR Deus de Israel,
 desde a eternidade e para a eternidade.
 Amém e amém.

@@ -1,7 +1,7 @@
-SALMO 27: O SENHOR É a Minha Luz — Arranjo Musical
+SALMO 27: O SENHOR É a Minha Luz
 Versão Bíblica: ARC
 
-[Verso 1] (v. 1-3)
+[Verso 1]
 O SENHOR é a minha luz e a minha salvação;
 a quem temerei?
 O SENHOR é a força da minha vida;
@@ -14,14 +14,14 @@ o meu coração não temeria;
 ainda que a guerra se levantasse contra mim,
 nisto confiaria.
 
-[Refrão] (v. 4)
+[Refrão]
 Uma coisa pedi ao SENHOR, e a buscarei:
 que possa morar na casa do SENHOR
 todos os dias da minha vida,
 para contemplar a formosura do SENHOR,
 e aprender no seu templo.
 
-[Verso 2] (v. 5-6)
+[Verso 2]
 Porque no dia da adversidade me esconderá no seu pavilhão;
 no oculto do seu tabernáculo me esconderá;
 sobre uma rocha me elevará.
@@ -30,14 +30,14 @@ sobre os meus inimigos que estão ao redor de mim;
 e oferecerei no seu tabernáculo sacrifícios de júbilo;
 cantarei, sim, cantarei louvores ao SENHOR.
 
-[Refrão] (v. 4)
+[Refrão]
 Uma coisa pedi ao SENHOR, e a buscarei:
 que possa morar na casa do SENHOR
 todos os dias da minha vida,
 para contemplar a formosura do SENHOR,
 e aprender no seu templo.
 
-[Verso 3] (v. 7-10)
+[Verso 3]
 Ouve, SENHOR, a minha voz quando clamo;
 tem também misericórdia de mim, e responde-me.
 Quando tu disseste: Buscai o meu rosto;
@@ -49,7 +49,7 @@ tu foste a minha ajuda; não me deixes, nem me desampares,
 Porque, quando meu pai e minha mãe me desampararem,
 o SENHOR me recolherá.
 
-[Bridge] (v. 11-12)
+[Bridge]
 Ensina-me, SENHOR, o teu caminho,
 e guia-me pela vereda direita,
 por causa dos meus inimigos.
@@ -57,7 +57,7 @@ Não me entregues à vontade dos meus adversários;
 pois se levantaram contra mim falsas testemunhas,
 e os que respiram crueldade.
 
-[Refrão Final] (v. 13-14)
+[Refrão Final]
 Pereceria sem dúvida, se não cresse
 que veria a bondade do SENHOR na terra dos viventes.
 Espera no SENHOR, anima-te,

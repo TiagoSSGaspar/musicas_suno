@@ -1,7 +1,7 @@
-SALMO 66: Jubilai a Deus — Arranjo Musical
+SALMO 66: Jubilai a Deus
 Versão Bíblica: ARC
 
-[Verso 1] (v. 1-4)
+[Verso 1]
 Celebrai a Deus com alegria, todas as terras.
 Cantai a glória do seu nome;
 dai glória ao seu louvor.
@@ -10,18 +10,18 @@ Pela grandeza do teu poder se submeterão a ti os teus inimigos.
 Toda a terra te adorará,
 e te cantará; cantará o teu nome. (Selá)
 
-[Refrão] (v. 5)
+[Refrão]
 Vinde, e vede as obras de Deus;
 ele é tremendo nos seus feitos para com os filhos dos homens.
 
-[Verso 2] (v. 6-7)
+[Verso 2]
 Converteu o mar em terra seca;
 passaram o rio a pé; ali nos alegramos nele.
 Ele domina eternamente pelo seu poder;
 os seus olhos estão sobre as nações;
 não se exaltem os rebeldes. (Selá)
 
-[Verso 3] (v. 8-12)
+[Verso 3]
 Bendizei, povos, ao nosso Deus,
 e fazei ouvir a voz do seu louvor.
 É ele que conserva a nossa alma entre os vivos,
@@ -34,11 +34,11 @@ Fizeste com que satisfação montassem sobre as nossas cabeças;
 entramos no fogo e na água,
 mas tu nos trouxeste a um lugar espaçoso.
 
-[Refrão] (v. 5)
+[Refrão]
 Vinde, e vede as obras de Deus;
 ele é tremendo nos seus feitos para com os filhos dos homens.
 
-[Bridge] (v. 13-18)
+[Bridge]
 Entrarei na tua casa com holocaustos;
 pagar-te-ei os meus votos,
 os quais pronunciaram os meus lábios,
@@ -53,7 +53,7 @@ e ele foi exaltado pela minha língua.
 Se eu atender à iniquidade no meu coração,
 o Senhor não me ouvirá;
 
-[Refrão Final] (v. 19-20)
+[Refrão Final]
 Mas, deveras, Deus me ouviu;
 atendeu à voz da minha oração.
 Bendito seja Deus, que não rejeitou a minha oração,

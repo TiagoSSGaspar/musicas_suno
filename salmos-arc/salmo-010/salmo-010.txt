@@ -1,7 +1,7 @@
-SALMO 10: O Clamor do Oprimido — Arranjo Musical
+SALMO 10: O Clamor do Oprimido
 Versão Bíblica: ARC
 
-[Verso 1] (v. 1-4)
+[Verso 1]
 Por que te retiras, SENHOR?
 Por que te escondes nos tempos de angústia?
 Os ímpios na sua arrogância perseguem furiosamente o pobre;
@@ -11,7 +11,7 @@ bendiz ao avarento e renuncia ao SENHOR.
 O ímpio, na sua altivez, não busca a Deus;
 todas as suas cogitações são que não há Deus.
 
-[Verso 2] (v. 5-7)
+[Verso 2]
 Os seus caminhos são sempre prósperos;
 os teus juízos estão longe, muito acima da sua vista;
 quanto a todos os seus adversários, ele os assopra.
@@ -21,7 +21,7 @@ A sua boca está cheia de imprecações,
 e de enganos e de fraude;
 debaixo da sua língua há malícia e maldade.
 
-[Verso 3] (v. 8-11)
+[Verso 3]
 Põe-se de emboscadas nas aldeias;
 nos lugares ocultos mata o inocente;
 os seus olhos estão de espreita contra o pobre.
@@ -33,13 +33,13 @@ para que os pobres caiam em suas garras.
 Diz em seu coração: Deus esqueceu-se,
 cobriu o seu rosto, nunca isso verá.
 
-[Refrão] (v. 12-13)
+[Refrão]
 Levanta-te, SENHOR! Ó Deus, levanta a tua mão;
 não te esqueças dos humildes.
 Por que razão o ímpio renúncia a Deus?
 dizendo no seu coração: Tu não o requererás.
 
-[Bridge] (v. 14-15)
+[Bridge]
 Tu o tens visto, porque atentas para o trabalho e enfado,
 para o retribuíres com as tuas mãos;
 a ti se entrega o pobre;
@@ -47,7 +47,7 @@ tu és o auxiliador do órfão.
 Quebranta o braço do ímpio e do malvado;
 busca a sua impiedade, até que nada mais encontres.
 
-[Refrão Final] (v. 16-18)
+[Refrão Final]
 O SENHOR é Rei eternamente e para todo o sempre;
 os gentios pereceram da sua terra.
 SENHOR, tu ouviste os desejos dos mansos;

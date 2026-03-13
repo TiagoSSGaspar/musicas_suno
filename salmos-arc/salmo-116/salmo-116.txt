@@ -1,7 +1,7 @@
-SALMO 116: Amo ao SENHOR — Arranjo Musical
+SALMO 116: Amo ao SENHOR
 Versão Bíblica: ARC
 
-[Verso 1] (v. 1-4)
+[Verso 1]
 Amo ao SENHOR, porque ele ouviu
 a minha voz e a minha súplica.
 Porque inclinou os seus ouvidos para mim;
@@ -12,7 +12,7 @@ encontrei aperto e tristeza.
 Então invoquei o nome do SENHOR, dizendo:
 Ó SENHOR, livra a minha alma.
 
-[Refrão] (v. 5-7)
+[Refrão]
 Piedoso é o SENHOR e justo;
 o nosso Deus é compassivo.
 O SENHOR guarda os simples;
@@ -20,7 +20,7 @@ estava abatido, mas ele me livrou.
 Volta, minha alma, ao teu descanso,
 pois o SENHOR te fez bem.
 
-[Verso 2] (v. 8-11)
+[Verso 2]
 Porque tu livraste a minha alma da morte,
 os meus olhos das lágrimas,
 e os meus pés da queda.
@@ -31,7 +31,7 @@ Estive muito aflito.
 Eu disse na minha pressa:
 Todos os homens são mentirosos.
 
-[Bridge] (v. 12-14)
+[Bridge]
 Que darei eu ao SENHOR,
 por todos os benefícios que me tem feito?
 Tomarei o cálice da salvação,
@@ -39,7 +39,7 @@ e invocarei o nome do SENHOR.
 Pagarei os meus votos ao SENHOR,
 na presença de todo o seu povo.
 
-[Refrão Final] (v. 15-19)
+[Refrão Final]
 Preciosa é à vista do SENHOR
 a morte dos seus santos.
 Ó SENHOR, deveras sou teu servo;

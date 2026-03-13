@@ -1,7 +1,7 @@
-SALMO 88: Clamor na Escuridão — Arranjo Musical
+SALMO 88: Clamor na Escuridão
 Versão Bíblica: ARC
 
-[Verso 1] (v. 1-5)
+[Verso 1]
 Ó SENHOR Deus da minha salvação,
 diante de ti tenho clamado de dia e de noite.
 Chegue a minha oração perante a tua face;
@@ -15,7 +15,7 @@ como os feridos de morte que jazem na sepultura,
 dos quais te não lembras mais,
 e estão cortados da tua mão.
 
-[Verso 2] (v. 6-9)
+[Verso 2]
 Puseste-me no poço mais profundo,
 em trevas e nas profundezas.
 A tua ira pesa sobre mim,
@@ -27,7 +27,7 @@ Os meus olhos estão consumidos por causa da aflição;
 tenho clamado a ti todo o dia, SENHOR,
 e tenho estendido para ti as minhas mãos.
 
-[Verso 3] (v. 10-12)
+[Verso 3]
 Mostrarás tu maravilhas aos mortos?
 Levantar-se-ão os mortos para te louvar? (Selá)
 Será satisfação a tua benignidade no sepulcro?
@@ -35,13 +35,13 @@ Ou a tua fidelidade na perdição?
 Serão conhecidas as tuas maravilhas nas trevas?
 E a tua justiça na terra do esquecimento?
 
-[Verso 4] (v. 13-14)
+[Verso 4]
 Mas eu, SENHOR, tenho clamado a ti;
 pela manhã te prevenirá a minha oração.
 SENHOR, por que rejeitas a minha alma?
 Por que escondes de mim a tua face?
 
-[Bridge] (v. 15-17)
+[Bridge]
 Estou aflito, e prestes a morrer desde a minha mocidade;
 sofro os teus terrores; estou perturbado.
 A tua ardente indignação passou sobre mim;
@@ -49,6 +49,6 @@ os teus terrores me destroem.
 Eles me cercam todo o dia como água;
 juntamente me rodeiam.
 
-[Refrão Final] (v. 18)
+[Refrão Final]
 Alongaste de mim o amigo e o companheiro;
 os meus conhecidos estão em trevas.

@@ -1,7 +1,7 @@
-SALMO 106: Louvai Pela Sua Bondade — Arranjo Musical
+SALMO 106: Louvai Pela Sua Bondade
 Versão Bíblica: ARC
 
-[Verso 1] (v. 1-5)
+[Verso 1]
 Louvai ao SENHOR. Louvai ao SENHOR, porque ele é bom,
 porque a sua misericórdia dura para sempre.
 Quem pode contar as obras poderosas do SENHOR?
@@ -14,11 +14,11 @@ para que eu veja os bens dos teus escolhidos,
 para que me alegre com a alegria do teu povo,
 para que me glorie com a tua herança.
 
-[Refrão] (v. 1)
+[Refrão]
 Louvai ao SENHOR, porque ele é bom,
 porque a sua misericórdia dura para sempre.
 
-[Verso 2] (v. 6-12)
+[Verso 2]
 Pecamos com nossos pais, cometemos iniquidade, procedemos perversamente.
 Nossos pais não entenderam as tuas maravilhas no Egito;
 não se lembraram da multidão das tuas misericórdias;
@@ -34,7 +34,7 @@ nenhum deles ficou.
 Então creram nas suas palavras;
 e cantaram o seu louvor.
 
-[Verso 3] (v. 13-23)
+[Verso 3]
 Cedo, porém, se esqueceram das suas obras;
 não esperaram pelo seu conselho.
 Mas cobiçaram ardentemente no deserto,
@@ -59,7 +59,7 @@ Pelo que ele se propôs destruí-los,
 se Moisés, seu escolhido, não se tivesse posto na brecha perante ele,
 para desviar a sua indignação e para que os não destruísse.
 
-[Bridge] (v. 44-46)
+[Bridge]
 Contudo atendeu à sua angústia,
 ouvindo o seu clamor.
 E se lembrou da sua aliança para com eles,
@@ -67,7 +67,7 @@ e se arrependeu segundo a multidão das suas misericórdias.
 E fez com que deles tivessem piedade
 todos os que os levaram cativos.
 
-[Refrão Final] (v. 47-48)
+[Refrão Final]
 Salva-nos, SENHOR nosso Deus,
 e congrega-nos dentre os gentios,
 para que louvemos o teu santo nome,

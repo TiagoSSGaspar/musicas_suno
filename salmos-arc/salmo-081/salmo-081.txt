@@ -1,7 +1,7 @@
-SALMO 81: Abre Bem a Tua Boca — Arranjo Musical
+SALMO 81: Abre Bem a Tua Boca
 Versão Bíblica: ARC
 
-[Verso 1] (v. 1-5)
+[Verso 1]
 Cantai alegremente a Deus, nossa fortaleza;
 jubilai ao Deus de Jacó.
 Tomai um salmo, e trazei o tamboril,
@@ -14,12 +14,12 @@ Ordenou-o em José por testemunho,
 quando saiu pela terra do Egito,
 onde ouvi uma língua que não entendia.
 
-[Refrão] (v. 10)
+[Refrão]
 Eu sou o SENHOR teu Deus,
 que te tirei da terra do Egito;
 abre a tua boca, e ta encherei.
 
-[Verso 2] (v. 6-9)
+[Verso 2]
 Livrei o seu ombro da carga;
 as suas mãos foram livres dos cestos.
 Na angústia clamaste, e eu te livrei;
@@ -30,12 +30,12 @@ ah, Israel, se tu me ouvisses!
 Não haverá entre ti deus estranho,
 nem te prostrarás ante um deus estrangeiro.
 
-[Refrão] (v. 10)
+[Refrão]
 Eu sou o SENHOR teu Deus,
 que te tirei da terra do Egito;
 abre a tua boca, e ta encherei.
 
-[Bridge] (v. 11-14)
+[Bridge]
 Mas o meu povo não quis ouvir a minha voz,
 e Israel não me quis.
 Pelo que os entreguei aos desejos dos seus corações,
@@ -45,7 +45,7 @@ Se Israel andasse nos meus caminhos!
 Em breve satisfação os seus inimigos
 e viraria a minha mão contra os seus adversários.
 
-[Refrão Final] (v. 15-16)
+[Refrão Final]
 Os que odeiam ao SENHOR se lhe submeteriam,
 e o seu tempo seria eterno.
 E o sustentaria com o trigo mais fino,

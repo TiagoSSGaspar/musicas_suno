@@ -1,7 +1,7 @@
-SALMO 38: O Peso do Pecado — Arranjo Musical
+SALMO 38: O Peso do Pecado
 Versão Bíblica: ARC
 
-[Verso 1] (v. 1-4)
+[Verso 1]
 SENHOR, não me repreendas na tua ira,
 nem me castigues no teu furor.
 Porque as tuas flechas se cravaram em mim,
@@ -11,13 +11,13 @@ nem há paz nos meus ossos, por causa do meu pecado.
 Pois já as minhas iniquidades ultrapassam a minha cabeça;
 como carga pesada são demais para mim.
 
-[Refrão] (v. 15-16)
+[Refrão]
 Pois em ti, SENHOR, espero;
 tu me ouvirás, Senhor Deus meu.
 Porque eu disse: Ouve-me, para que não se alegrem de mim;
 quando vacila o meu pé, engrandecem-se contra mim.
 
-[Verso 2] (v. 5-8)
+[Verso 2]
 As minhas chagas cheiram mal e estão corruptas,
 por causa da minha loucura.
 Estou encurvado e muito abatido;
@@ -27,7 +27,7 @@ e não há coisa sã na minha carne.
 Estou debilitado e mui quebrantado;
 tenho rugido pela inquietação do meu coração.
 
-[Verso 3] (v. 9-14)
+[Verso 3]
 Senhor, diante de ti está todo o meu desejo,
 e o meu gemido não te é oculto.
 O meu coração palpita, as minhas forças me faltam;
@@ -42,7 +42,7 @@ e era como mudo, que não abre a boca.
 Assim eu era como homem que não ouve,
 e em cuja boca não há reprovação.
 
-[Bridge] (v. 17-20)
+[Bridge]
 Porque estou prestes a cair,
 e a minha dor está continuamente diante de mim.
 Porque eu declararei a minha iniquidade;
@@ -52,7 +52,7 @@ e os que sem razão me odeiam se multiplicam.
 E os que pagam o mal pelo bem
 são contra mim, porque sigo o que é bom.
 
-[Refrão Final] (v. 21-22)
+[Refrão Final]
 Não me desampares, SENHOR;
 Deus meu, não te alongues de mim.
 Apressa-te em socorrer-me,

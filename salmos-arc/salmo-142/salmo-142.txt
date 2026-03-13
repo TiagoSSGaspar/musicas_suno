@@ -1,7 +1,7 @@
-SALMO 142: Tu És o Meu Refúgio — Arranjo Musical
+SALMO 142: Tu És o Meu Refúgio
 Versão Bíblica: ARC
 
-[Verso 1] (v. 1-3)
+[Verso 1]
 Com a minha voz clamei ao SENHOR;
 com a minha voz supliquei ao SENHOR.
 Derramei perante ele a minha queixa;
@@ -11,7 +11,7 @@ tu conheceste a minha vereda;
 no caminho em que eu andava,
 esconderam-me um laço.
 
-[Bridge] (v. 4-5)
+[Bridge]
 Olhei para a minha mão direita, e vi;
 mas não havia quem me conhecesse;
 refúgio me faltou;
@@ -20,7 +20,7 @@ A ti, ó SENHOR, clamei; eu disse:
 Tu és o meu refúgio,
 e a minha porção na terra dos viventes.
 
-[Refrão Final] (v. 6-7)
+[Refrão Final]
 Atende ao meu clamor, porque estou muito abatido;
 livra-me dos meus perseguidores, porque são mais fortes do que eu.
 Tira a minha alma da prisão,

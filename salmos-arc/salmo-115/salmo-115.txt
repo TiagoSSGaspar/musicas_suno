@@ -1,7 +1,7 @@
-SALMO 115: Não a Nós, SENHOR — Arranjo Musical
+SALMO 115: Não a Nós, SENHOR
 Versão Bíblica: ARC
 
-[Verso 1] (v. 1-3)
+[Verso 1]
 Não a nós, SENHOR, não a nós,
 mas ao teu nome dá glória,
 por amor da tua benignidade e da tua verdade.
@@ -9,7 +9,7 @@ Por que diriam os gentios: Onde está o seu Deus?
 Mas o nosso Deus está nos céus;
 fez tudo o que lhe agradou.
 
-[Verso 2] (v. 4-8)
+[Verso 2]
 Os ídolos deles são prata e ouro,
 obra das mãos dos homens.
 Têm boca, mas não falam;
@@ -22,7 +22,7 @@ nem som algum sai da sua garganta.
 A eles se tornem semelhantes os que os fazem,
 assim como qualquer que neles confia.
 
-[Refrão] (v. 9-11)
+[Refrão]
 Israel, confia no SENHOR;
 ele é o seu auxílio e o seu escudo.
 Casa de Arão, confiai no SENHOR;
@@ -30,7 +30,7 @@ ele é o seu auxílio e o seu escudo.
 Vós que temeis ao SENHOR, confiai no SENHOR;
 ele é o seu auxílio e o seu escudo.
 
-[Bridge] (v. 12-15)
+[Bridge]
 O SENHOR se lembrou de nós; ele nos abençoará;
 abençoará a casa de Israel;
 abençoará a casa de Arão.
@@ -41,7 +41,7 @@ a vós e a vossos filhos.
 Benditos vós do SENHOR,
 que fez os céus e a terra.
 
-[Refrão Final] (v. 16-18)
+[Refrão Final]
 Os céus são os céus do SENHOR;
 mas a terra a deu aos filhos dos homens.
 Os mortos não louvam ao SENHOR,

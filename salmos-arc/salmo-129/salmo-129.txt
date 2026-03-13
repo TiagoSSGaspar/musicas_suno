@@ -1,7 +1,7 @@
-SALMO 129: Não Prevaleceram — Arranjo Musical
+SALMO 129: Não Prevaleceram
 Versão Bíblica: ARC
 
-[Verso 1] (v. 1-4)
+[Verso 1]
 Muitas vezes me angustiaram desde a minha mocidade,
 — diga agora Israel —
 muitas vezes me angustiaram desde a minha mocidade;
@@ -11,7 +11,7 @@ compridos fizeram os seus sulcos.
 O SENHOR é justo;
 cortou as cordas dos ímpios.
 
-[Refrão Final] (v. 5-8)
+[Refrão Final]
 Sejam confundidos e voltem para trás
 todos os que odeiam a Sião.
 Sejam como a erva dos telhados,

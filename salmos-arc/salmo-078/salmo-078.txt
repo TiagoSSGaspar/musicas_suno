@@ -1,7 +1,7 @@
-SALMO 78: A História do Seu Povo — Arranjo Musical
+SALMO 78: A História do Seu Povo
 Versão Bíblica: ARC
 
-[Verso 1] (v. 1-8)
+[Verso 1]
 Escuta, povo meu, a minha lei;
 inclinai os vossos ouvidos às palavras da minha boca.
 Abrirei a minha boca numa parábola;
@@ -26,7 +26,7 @@ geração contumaz e rebelde,
 geração que não regeu o seu coração,
 e cujo espírito não foi fiel para com Deus.
 
-[Refrão] (v. 38-39)
+[Refrão]
 Porém ele, que é misericordioso,
 perdoou a sua iniquidade, e não os destruiu;
 antes muitas vezes desviou a sua ira,
@@ -34,7 +34,7 @@ e não despertou toda a sua indignação.
 Pois se lembrou de que eram carne,
 um vento que vai e não volta.
 
-[Verso 2] (v. 12-16)
+[Verso 2]
 Coisas maravilhosas fez ele à vista de seus pais,
 na terra do Egito, no campo de Zoã.
 Dividiu o mar, e os fez passar por ele;
@@ -46,7 +46,7 @@ e deu-lhes de beber como de grandes abismos.
 Pois fez sair fontes da rocha,
 e fez correr as águas como rios.
 
-[Verso 3] (v. 17-25)
+[Verso 3]
 Contudo ainda prosseguiram em pecar contra ele,
 provocando o Altíssimo no deserto.
 E tentaram a Deus nos seus corações,
@@ -67,7 +67,7 @@ e deu-lhes do trigo dos céus.
 O homem comeu o pão dos anjos;
 ele lhes mandou comida a fartar.
 
-[Verso 4] (v. 40-55)
+[Verso 4]
 Quantas vezes o provocaram no deserto,
 e o entristeceram na solidão!
 Voltaram atrás e tentaram a Deus,
@@ -99,7 +99,7 @@ E expulsou os gentios de diante deles,
 e dividiu-lhes a terra em herança,
 e fez habitar as tribos de Israel nas suas tendas.
 
-[Refrão] (v. 38-39)
+[Refrão]
 Porém ele, que é misericordioso,
 perdoou a sua iniquidade, e não os destruiu;
 antes muitas vezes desviou a sua ira,
@@ -107,7 +107,7 @@ e não despertou toda a sua indignação.
 Pois se lembrou de que eram carne,
 um vento que vai e não volta.
 
-[Bridge] (v. 65-69)
+[Bridge]
 Então o Senhor despertou como quem dormia,
 como um valente que grita pelo vinho.
 E feriu os seus inimigos por detrás;
@@ -119,7 +119,7 @@ o monte Sião que ele amava.
 E edificou o seu santuário como altos palácios,
 como a terra que fundou para sempre.
 
-[Refrão Final] (v. 70-72)
+[Refrão Final]
 Também elegeu a Davi seu servo,
 e o tirou dos redis das ovelhas;
 de detrás das ovelhas de criar o trouxe,

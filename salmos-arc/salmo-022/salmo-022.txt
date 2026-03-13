@@ -1,7 +1,7 @@
-SALMO 22: Deus Meu, Por Que Me Desamparaste? — Arranjo Musical
+SALMO 22: Deus Meu, Por Que Me Desamparaste?
 Versão Bíblica: ARC
 
-[Verso 1] (v. 1-5)
+[Verso 1]
 Deus meu, Deus meu, por que me desamparaste?
 Por que te alongas do meu auxílio
 e das palavras do meu bramido?
@@ -14,7 +14,7 @@ confiaram, e tu os livraste.
 A ti clamaram e escaparam;
 em ti confiaram, e não foram confundidos.
 
-[Refrão] (v. 19-21)
+[Refrão]
 Mas tu, SENHOR, não te alongues de mim;
 força minha, apressa-te em socorrer-me.
 Livra a minha alma da espada,
@@ -22,7 +22,7 @@ e a minha predileta da força do cão.
 Salva-me da boca do leão;
 sim, tu me ouviste, desde os chifres dos bois selvagens.
 
-[Verso 2] (v. 6-11)
+[Verso 2]
 Mas eu sou verme, e não homem,
 opróbrio dos homens e desprezado do povo.
 Todos os que me veem zombam de mim,
@@ -37,7 +37,7 @@ Não te alongues de mim,
 pois a angústia está perto,
 e não há quem ajude.
 
-[Verso 3] (v. 12-18)
+[Verso 3]
 Muitos touros me cercaram;
 fortes touros de Basã me rodearam.
 Abriram contra mim as suas bocas,
@@ -56,7 +56,7 @@ eles veem e me contemplam.
 Repartem entre si as minhas vestes,
 e lançam sortes sobre a minha roupa.
 
-[Refrão] (v. 19-21)
+[Refrão]
 Mas tu, SENHOR, não te alongues de mim;
 força minha, apressa-te em socorrer-me.
 Livra a minha alma da espada,
@@ -64,7 +64,7 @@ e a minha predileta da força do cão.
 Salva-me da boca do leão;
 sim, tu me ouviste, desde os chifres dos bois selvagens.
 
-[Bridge] (v. 22-26)
+[Bridge]
 Então declararei o teu nome aos meus irmãos;
 louvar-te-ei no meio da congregação.
 Vós que temeis ao SENHOR, louvai-o;
@@ -79,7 +79,7 @@ Os mansos comerão e se fartarão;
 louvarão ao SENHOR os que o buscam;
 o vosso coração viverá eternamente.
 
-[Refrão Final] (v. 27-31)
+[Refrão Final]
 Todos os limites da terra se lembrarão
 e se converterão ao SENHOR;
 e todas as famílias das nações adorarão perante a tua face.

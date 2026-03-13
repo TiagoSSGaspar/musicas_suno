@@ -1,7 +1,7 @@
-SALMO 39: A Medida dos Meus Dias — Arranjo Musical
+SALMO 39: A Medida dos Meus Dias
 Versão Bíblica: ARC
 
-[Verso 1] (v. 1-3)
+[Verso 1]
 Eu disse: Guardarei os meus caminhos,
 para não pecar com a minha língua;
 guardarei a minha boca com um freio,
@@ -12,7 +12,7 @@ Esquentou-se-me o coração dentro de mim;
 enquanto eu meditava se acendeu um fogo;
 então falei com a minha língua:
 
-[Refrão] (v. 4-5)
+[Refrão]
 SENHOR, faze-me conhecer o meu fim,
 e a medida dos meus dias qual é,
 para que eu saiba quão frágil sou.
@@ -20,14 +20,14 @@ Eis que fizeste os meus dias como medida de mão;
 e a minha idade é como nada diante de ti;
 certamente todo homem é pura vaidade. (Selá)
 
-[Verso 2] (v. 6-7)
+[Verso 2]
 Na verdade, todo homem anda numa vã aparência;
 certamente em vão se inquietam;
 amontoam riquezas, e não sabem quem as levará.
 E agora, Senhor, que espero eu?
 A minha esperança está em ti.
 
-[Bridge] (v. 8-11)
+[Bridge]
 Livra-me de todas as minhas transgressões;
 não me faças o opróbrio dos néscios.
 Emudeci, e não abri a minha boca,
@@ -38,7 +38,7 @@ Quando tu com repreensões castigas o homem por causa da iniquidade,
 fazes com que a sua formosura se consuma como a traça;
 certamente todo homem é vaidade. (Selá)
 
-[Refrão Final] (v. 12-13)
+[Refrão Final]
 Ouve a minha oração, SENHOR,
 e inclina os teus ouvidos ao meu clamor;
 não te cales perante as minhas lágrimas;

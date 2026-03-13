@@ -1,7 +1,7 @@
-SALMO 37: Não Te Indignes — Arranjo Musical
+SALMO 37: Não Te Indignes
 Versão Bíblica: ARC
 
-[Verso 1] (v. 1-6)
+[Verso 1]
 Não te indignes por causa dos malfeitores,
 nem tenhas inveja dos que praticam a iniquidade.
 Porque cedo serão cortados como a erva,
@@ -15,7 +15,7 @@ confia nele, e ele tudo fará.
 E ele fará sobressair a tua justiça como a luz,
 e o teu juízo como o meio-dia.
 
-[Refrão] (v. 7-9)
+[Refrão]
 Descansa no SENHOR, e espera nele;
 não te indignes por causa daquele que prospera em seu caminho,
 por causa do homem que executa astutos intentos.
@@ -24,7 +24,7 @@ não te indignes de forma alguma para fazer o mal.
 Porque os malfeitores serão desarraigados;
 mas aqueles que esperam no SENHOR herdarão a terra.
 
-[Verso 2] (v. 10-15)
+[Verso 2]
 Pois ainda um pouco, e o ímpio não existirá;
 olharás para o seu lugar, e não aparecerá.
 Mas os mansos herdarão a terra,
@@ -39,7 +39,7 @@ para matarem os de reto caminho.
 A sua espada lhes entrará no coração,
 e os seus arcos se quebrarão.
 
-[Verso 3] (v. 16-22)
+[Verso 3]
 Vale mais o pouco que tem o justo,
 do que as riquezas de muitos ímpios.
 Pois os braços dos ímpios se quebrarão,
@@ -56,13 +56,13 @@ mas o justo se compadece, e dá.
 Porque aqueles que ele abençoa herdarão a terra,
 e aqueles que forem por ele amaldiçoados serão desarraigados.
 
-[Refrão] (v. 23-24)
+[Refrão]
 Os passos de um homem bom são confirmados pelo SENHOR,
 e deleita-se no seu caminho.
 Ainda que caia, não ficará prostrado,
 pois o SENHOR o sustém com a sua mão.
 
-[Verso 4] (v. 25-29)
+[Verso 4]
 Fui moço, e agora sou velho;
 mas nunca vi desamparado o justo,
 nem a sua semente a mendigar o pão.
@@ -77,7 +77,7 @@ mas a semente dos ímpios será desarraigada.
 Os justos herdarão a terra
 e habitarão nela para sempre.
 
-[Verso 5] (v. 30-33)
+[Verso 5]
 A boca do justo profere a sabedoria,
 e a sua língua fala do juízo.
 A lei do seu Deus está no seu coração;
@@ -87,7 +87,7 @@ e procura matá-lo.
 O SENHOR não o deixará nas suas mãos,
 nem o condenará quando for julgado.
 
-[Bridge] (v. 34-36)
+[Bridge]
 Espera no SENHOR, e guarda o seu caminho,
 e te exaltará para herdares a terra;
 tu o verás quando os ímpios forem desarraigados.
@@ -96,7 +96,7 @@ e a espalhar-se como a árvore verde na terra natal.
 Mas passou, e eis que já não aparecia;
 procurei-o, mas não se pôde encontrar.
 
-[Refrão Final] (v. 37-40)
+[Refrão Final]
 Nota o homem sincero, e considera o reto,
 porque o futuro desse homem será de paz.
 Quanto aos transgressores, serão à uma destruídos;

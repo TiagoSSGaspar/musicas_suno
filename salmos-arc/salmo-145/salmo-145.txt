@@ -1,7 +1,7 @@
-SALMO 145: A Grandeza do Rei — Arranjo Musical
+SALMO 145: A Grandeza do Rei
 Versão Bíblica: ARC
 
-[Verso 1] (v. 1-7)
+[Verso 1]
 Exaltar-te-ei, ó Deus, rei meu,
 e bendirei o teu nome para todo o sempre.
 Cada dia te bendirei,
@@ -17,13 +17,13 @@ e contarei a tua grandeza.
 Proferirão abundantemente a memória da tua grande bondade,
 e cantarão a tua justiça.
 
-[Refrão] (v. 8-9)
+[Refrão]
 Piedoso e benigno é o SENHOR;
 tardio em irar-se, e de grande benignidade.
 O SENHOR é bom para todos,
 e as suas ternas misericórdias são sobre todas as suas obras.
 
-[Verso 2] (v. 10-13)
+[Verso 2]
 Todas as tuas obras te louvarão, ó SENHOR;
 e os teus santos te bendirão.
 Falarão da glória do teu reino,
@@ -33,7 +33,7 @@ e a glória da magnificência do seu reino.
 O teu reino é um reino eterno;
 o teu domínio dura em todas as gerações.
 
-[Bridge] (v. 14-17)
+[Bridge]
 O SENHOR sustenta a todos os que caem,
 e levanta a todos os abatidos.
 Os olhos de todos esperam em ti,
@@ -43,7 +43,7 @@ e satisfazes os desejos de todos os viventes.
 Justo é o SENHOR em todos os seus caminhos,
 e santo em todas as suas obras.
 
-[Refrão Final] (v. 18-21)
+[Refrão Final]
 Perto está o SENHOR de todos os que o invocam,
 de todos os que o invocam em verdade.
 Ele cumprirá o desejo dos que o temem;

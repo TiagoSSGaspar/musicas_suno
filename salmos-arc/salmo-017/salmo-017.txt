@@ -1,7 +1,7 @@
-SALMO 17: A Menina dos Teus Olhos — Arranjo Musical
+SALMO 17: A Menina dos Teus Olhos
 Versão Bíblica: ARC
 
-[Verso 1] (v. 1-5)
+[Verso 1]
 Ouve, SENHOR, a justiça; atende ao meu clamor;
 dá ouvidos à minha oração, que não é feita com lábios enganosos.
 Saia a minha sentença de diante do teu rosto;
@@ -14,14 +14,14 @@ pela palavra dos teus lábios me guardei das veredas do destruidor.
 Sustenta os meus passos nas tuas veredas,
 para que as minhas pegadas não vacilem.
 
-[Refrão] (v. 6-7)
+[Refrão]
 Eu te invoquei, ó Deus, pois tu me ouvirás;
 inclina para mim os teus ouvidos, e ouve as minhas palavras.
 Faze maravilhosas as tuas beneficências,
 ó tu que livras aqueles que em ti confiam
 dos que se levantam contra a tua mão direita.
 
-[Verso 2] (v. 8-12)
+[Verso 2]
 Guarda-me como à menina dos teus olhos;
 esconde-me debaixo da sombra das tuas asas,
 dos ímpios que me oprimem,
@@ -33,7 +33,7 @@ abaixaram os seus olhos contra a terra.
 São semelhantes ao leão que deseja arrebatar,
 e ao leãozinho que se põe em esconderijos.
 
-[Bridge] (v. 13-14)
+[Bridge]
 Levanta-te, SENHOR, detém a sua alma,
 derriba-o com a tua espada;
 dos homens com a tua mão, SENHOR,
@@ -42,6 +42,6 @@ e cujo ventre enches do teu tesouro oculto.
 Ficam satisfeitos com filhos,
 e o que lhes sobra deixam aos seus filhinhos.
 
-[Refrão Final] (v. 15)
+[Refrão Final]
 Eu, porém, contemplarei a tua face na justiça;
 eu me satisfarei da tua semelhança quando acordar.

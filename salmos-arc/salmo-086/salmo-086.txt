@@ -1,7 +1,7 @@
-SALMO 86: Inclina os Teus Ouvidos — Arranjo Musical
+SALMO 86: Inclina os Teus Ouvidos
 Versão Bíblica: ARC
 
-[Verso 1] (v. 1-5)
+[Verso 1]
 Inclina, SENHOR, os teus ouvidos, e ouve-me,
 porque sou necessitado e pobre.
 Guarda a minha alma, pois sou santo;
@@ -13,28 +13,28 @@ pois a ti, SENHOR, levanto a minha alma.
 Pois tu, Senhor, és bom, e pronto a perdoar,
 e abundante em benignidade para todos os que te invocam.
 
-[Refrão] (v. 10)
+[Refrão]
 Porque tu és grande e fazes coisas maravilhosas;
 só tu és Deus.
 
-[Verso 2] (v. 6-7)
+[Verso 2]
 Dá ouvidos, SENHOR, à minha oração,
 e atende à voz das minhas súplicas.
 No dia da minha angústia clamo a ti,
 porque tu me respondes.
 
-[Verso 3] (v. 8-10)
+[Verso 3]
 Entre os deuses não há semelhante a ti, Senhor,
 nem há obras como as tuas.
 Todas as nações que fizeste virão
 e se prostrarão perante a tua face, Senhor,
 e glorificarão o teu nome.
 
-[Refrão] (v. 10)
+[Refrão]
 Porque tu és grande e fazes coisas maravilhosas;
 só tu és Deus.
 
-[Bridge] (v. 11-13)
+[Bridge]
 Ensina-me, SENHOR, o teu caminho,
 e andarei na tua verdade;
 une o meu coração ao temor do teu nome.
@@ -43,7 +43,7 @@ e glorificarei o teu nome para sempre.
 Pois grande é a tua misericórdia para comigo;
 e tu livraste a minha alma do inferno mais profundo.
 
-[Verso 4] (v. 14-16)
+[Verso 4]
 Ó Deus, os soberbos se levantaram contra mim,
 e as congregações de homens violentos
 procuraram a minha alma,
@@ -54,7 +54,7 @@ Olha para mim, e tem piedade de mim;
 dá a tua força ao teu servo,
 e salva o filho da tua serva.
 
-[Refrão Final] (v. 17)
+[Refrão Final]
 Faze-me um sinal de bondade,
 para que o vejam os que me odeiam, e se envergonhem;
 porque tu, SENHOR, me ajudaste e me consolaste.

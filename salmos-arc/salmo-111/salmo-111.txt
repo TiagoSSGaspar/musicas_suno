@@ -1,7 +1,7 @@
-SALMO 111: Grandes São as Obras — Arranjo Musical
+SALMO 111: Grandes São as Obras
 Versão Bíblica: ARC
 
-[Verso 1] (v. 1-4)
+[Verso 1]
 Louvai ao SENHOR.
 Louvarei ao SENHOR de todo o coração,
 na assembleia dos justos e na congregação.
@@ -12,11 +12,11 @@ e a sua justiça permanece para sempre.
 Fez memoráveis as suas maravilhas;
 benigno e misericordioso é o SENHOR.
 
-[Refrão] (v. 5)
+[Refrão]
 Deu mantimento aos que o temem;
 lembrar-se-á sempre da sua aliança.
 
-[Verso 2] (v. 6-8)
+[Verso 2]
 Anunciou ao seu povo o poder das suas obras,
 para lhe dar a herança dos gentios.
 As obras das suas mãos são verdade e juízo;
@@ -24,12 +24,12 @@ fiéis são todos os seus mandamentos.
 Permanecem firmes para todo o sempre;
 são feitos em verdade e em retidão.
 
-[Bridge] (v. 9)
+[Bridge]
 Redenção enviou ao seu povo;
 ordenou a sua aliança para sempre;
 santo e tremendo é o seu nome.
 
-[Refrão Final] (v. 10)
+[Refrão Final]
 O temor do SENHOR é o princípio da sabedoria;
 bom entendimento têm todos os que lhe obedecem;
 o seu louvor permanece para sempre.

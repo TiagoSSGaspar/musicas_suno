@@ -1,7 +1,7 @@
-SALMO 68: Levanta-Se Deus — Arranjo Musical
+SALMO 68: Levanta-Se Deus
 Versão Bíblica: ARC
 
-[Verso 1] (v. 1-6)
+[Verso 1]
 Levante-se Deus, sejam dissipados os seus inimigos,
 e fujam diante dele os que o odeiam.
 Como se dissipa a fumaça, assim tu os dissiparás;
@@ -17,13 +17,13 @@ Deus faz que o solitário viva em família;
 liberta aqueles que estão presos em grilhões;
 mas os rebeldes habitam em terra seca.
 
-[Refrão] (v. 19-20)
+[Refrão]
 Bendito seja o Senhor, que cada dia nos carrega de benefícios,
 o Deus que é a nossa salvação. (Selá)
 O nosso Deus é o Deus da salvação;
 e ao SENHOR Deus pertencem os livramentos da morte.
 
-[Verso 2] (v. 7-10)
+[Verso 2]
 Ó Deus, quando tu saíste perante o teu povo,
 quando marchaste pelo deserto, (Selá)
 a terra tremeu, os céus gotejaram perante a face de Deus;
@@ -33,7 +33,7 @@ com que satisfação a tua herança cansada.
 A tua congregação habitou nela;
 tu, ó Deus, na tua bondade preparaste para os pobres.
 
-[Verso 3] (v. 11-14)
+[Verso 3]
 O Senhor deu a palavra;
 grande era o exército dos que anunciavam as boas novas.
 Os reis dos exércitos fugiram apressados;
@@ -44,7 +44,7 @@ e as suas penas de ouro amarelo. (Selá)
 Quando o Todo-Poderoso ali espalhava os reis,
 ficava alva como a neve em Salmom.
 
-[Verso 4] (v. 15-18)
+[Verso 4]
 O monte de Deus é como o monte de Basã;
 monte alto como o monte de Basã.
 Por que saltais, ó montes elevados?
@@ -56,13 +56,13 @@ Tu subiste ao alto, levaste cativo o cativeiro,
 recebeste dons para os homens,
 e até para os rebeldes, para que o SENHOR Deus habitasse entre eles.
 
-[Refrão] (v. 19-20)
+[Refrão]
 Bendito seja o Senhor, que cada dia nos carrega de benefícios,
 o Deus que é a nossa salvação. (Selá)
 O nosso Deus é o Deus da salvação;
 e ao SENHOR Deus pertencem os livramentos da morte.
 
-[Bridge] (v. 32-34)
+[Bridge]
 Reinos da terra, cantai a Deus,
 cantai louvores ao Senhor, (Selá)
 àquele que cavalga sobre os céus dos céus,
@@ -72,7 +72,7 @@ Atribuí a Deus fortaleza;
 a sua excelência está sobre Israel,
 e a sua fortaleza nos céus.
 
-[Refrão Final] (v. 35)
+[Refrão Final]
 Ó Deus, tu és tremendo desde os teus santuários;
 o Deus de Israel é o que dá fortaleza e poder ao seu povo.
 Bendito seja Deus!

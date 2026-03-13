@@ -1,7 +1,7 @@
-SALMO 28: Minha Rocha, Não Te Cales — Arranjo Musical
+SALMO 28: Minha Rocha, Não Te Cales
 Versão Bíblica: ARC
 
-[Verso 1] (v. 1-2)
+[Verso 1]
 A ti clamarei, ó SENHOR, Rocha minha;
 não emudeças para comigo;
 para que, se te calares para comigo,
@@ -11,7 +11,7 @@ quando a ti clamar,
 quando levantar as minhas mãos
 para o teu santo oráculo.
 
-[Refrão] (v. 6-7)
+[Refrão]
 Bendito seja o SENHOR,
 porque ouviu a voz das minhas súplicas.
 O SENHOR é a minha força e o meu escudo;
@@ -19,7 +19,7 @@ nele confiou o meu coração, e fui socorrido;
 por isso o meu coração salta de prazer,
 e com o meu canto o louvarei.
 
-[Verso 2] (v. 3-5)
+[Verso 2]
 Não me arrebates com os ímpios
 e com os que praticam a iniquidade;
 que falam de paz com o seu próximo,
@@ -32,7 +32,7 @@ Porquanto não atentam para as obras do SENHOR,
 nem para o que as suas mãos fizeram,
 ele os derrubará e os não reedificará.
 
-[Refrão] (v. 6-7)
+[Refrão]
 Bendito seja o SENHOR,
 porque ouviu a voz das minhas súplicas.
 O SENHOR é a minha força e o meu escudo;
@@ -40,7 +40,7 @@ nele confiou o meu coração, e fui socorrido;
 por isso o meu coração salta de prazer,
 e com o meu canto o louvarei.
 
-[Refrão Final] (v. 8-9)
+[Refrão Final]
 O SENHOR é a força do seu povo;
 também é a força salvadora do seu ungido.
 Salva o teu povo, e abençoa a tua herança;

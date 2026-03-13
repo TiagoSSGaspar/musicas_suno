@@ -1,0 +1,79 @@
+{
+    "personas": [
+        {
+            "id": "6dee4051-e19f-4b46-87df-4cde7aed89cd",
+            "name": "Traditional Delta Blues",
+            "description": ""
+        },
+        {
+            "id": "43227efe-f68a-4368-be1f-4f48c95f952d",
+            "name": "Christian rock, worship",
+            "description": "Estilo fernan"
+        },
+        {
+            "id": "8fd64e00-5c2f-488d-972b-02d6ca1a8f05",
+            "name": "Christian Rock,Powerful Male Vocals",
+            "description": ""
+        },
+        {
+            "id": "7bb4f7c0-f8ef-401a-ba72-1949cc7ce88c",
+            "name": "Worship ballad, 68 BPM, piano,",
+            "description": "Estilo Gabirla rocha"
+        },
+        {
+            "id": "1b7c9a5e-bcec-48e4-98f0-a959669f8bbd",
+            "name": "Gospel rap, conscious hip-hop, 88 BPM,",
+            "description": ""
+        },
+        {
+            "id": "7b61daa3-c884-48bb-beeb-7526e3b7dc35",
+            "name": "Hino Gospel ",
+            "description": ""
+        },
+        {
+            "id": "9a2df579-b41c-4db6-ad26-8bb9a58cfea8",
+            "name": "Forró gospel pisadinha",
+            "description": ""
+        },
+        {
+            "id": "88819643-58af-442e-9562-b1c552dcbab1",
+            "name": "Forró gospel",
+            "description": "Estilo Saulo"
+        },
+        {
+            "id": "089e42c0-d4be-43c5-a430-0b4f85220b6c",
+            "name": "Reggae 85 bpm",
+            "description": "Reggae vibe Natruts"
+        },
+        {
+            "id": "cdf926a1-9105-4aa0-80e8-ecbed51b685b",
+            "name": "Hammond organ Blues",
+            "description": ""
+        },
+        {
+            "id": "1e56a4cc-2657-4f57-81e7-d12c4fec3020",
+            "name": "Slow Blues Gospel, 60bpm",
+            "description": ""
+        },
+        {
+            "id": "9d6fc9d3-c758-4fbb-a345-f6f6bde4440d",
+            "name": "Upbeat Blues female",
+            "description": ""
+        },
+        {
+            "id": "459e8001-2f53-4cad-8bef-2eed93def132",
+            "name": "Acoustic Blues Gospel",
+            "description": "main vocal "
+        },
+        {
+            "id": "10e9e985-7096-48f2-90bb-4bd775cf32f4",
+            "name": "Blues Gospel, 72bpm",
+            "description": "com coral"
+        },
+        {
+            "id": "7f821cfc-a140-4d93-8d4a-e9d54e7f3617",
+            "name": "Modão",
+            "description": "modão sertanejo"
+        }
+    ]
+}

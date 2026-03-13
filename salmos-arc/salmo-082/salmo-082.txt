@@ -1,7 +1,7 @@
-SALMO 82: Na Assembleia Divina — Arranjo Musical
+SALMO 82: Na Assembleia Divina
 Versão Bíblica: ARC
 
-[Verso 1] (v. 1-4)
+[Verso 1]
 Deus está na congregação dos poderosos;
 julga no meio dos deuses.
 Até quando julgareis injustamente,
@@ -11,7 +11,7 @@ justificai o aflito e o necessitado.
 Livrai o pobre e o necessitado;
 tirai-os das mãos dos ímpios.
 
-[Bridge] (v. 5-7)
+[Bridge]
 Eles não conhecem, nem entendem;
 andam em trevas;
 todos os fundamentos da terra vacilam.
@@ -20,6 +20,6 @@ e todos vós filhos do Altíssimo.
 Todavia morrereis como homens,
 e caireis como qualquer dos príncipes.
 
-[Refrão Final] (v. 8)
+[Refrão Final]
 Levanta-te, ó Deus, julga a terra,
 pois tu possuis todas as nações.

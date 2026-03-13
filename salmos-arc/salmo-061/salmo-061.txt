@@ -1,7 +1,7 @@
-SALMO 61: A Rocha Mais Alta — Arranjo Musical
+SALMO 61: A Rocha Mais Alta
 Versão Bíblica: ARC
 
-[Verso 1] (v. 1-3)
+[Verso 1]
 Ouve, ó Deus, o meu clamor;
 atende à minha oração.
 Desde o fim da terra clamarei a ti,
@@ -10,11 +10,11 @@ leva-me para a rocha que é mais alta do que eu.
 Pois tens sido o meu refúgio,
 e uma torre forte contra o inimigo.
 
-[Refrão] (v. 4)
+[Refrão]
 Habitarei no teu tabernáculo para sempre;
 abrigar-me-ei no esconderijo das tuas asas. (Selá)
 
-[Bridge] (v. 5-7)
+[Bridge]
 Porque tu, ó Deus, ouviste os meus votos;
 deste-me a herança dos que temem o teu nome.
 Prolongarás os dias da vida do rei;
@@ -22,6 +22,6 @@ e os seus anos durarão de geração em geração.
 Ele permanecerá diante de Deus para sempre;
 ordena que a misericórdia e a verdade o conservem.
 
-[Refrão Final] (v. 8)
+[Refrão Final]
 Assim cantarei louvores ao teu nome eternamente,
 para pagar os meus votos de dia em dia.

@@ -1,7 +1,7 @@
-SALMO 2: O Rei Ungido — Arranjo Musical
+SALMO 2: O Rei Ungido
 Versão Bíblica: ARC
 
-[Verso 1] (v. 1-3)
+[Verso 1]
 Por que se amotinam os gentios,
 e os povos imaginam coisas vãs?
 Os reis da terra se levantam,
@@ -10,7 +10,7 @@ contra o SENHOR e contra o seu ungido, dizendo:
 Rompamos as suas ataduras,
 e sacudamos de nós as suas cordas.
 
-[Refrão] (v. 4-6)
+[Refrão]
 Aquele que habita nos céus se rirá;
 o Senhor zombará deles.
 Então lhes falará na sua ira,
@@ -18,7 +18,7 @@ e no seu furor os turbará, dizendo:
 Eu, porém, ungi o meu Rei
 sobre o meu santo monte de Sião.
 
-[Verso 2] (v. 7-9)
+[Verso 2]
 Proclamarei o decreto:
 O SENHOR me disse: Tu és meu Filho,
 eu hoje te gerei.
@@ -27,7 +27,7 @@ e os fins da terra por tua possessão.
 Tu os esmigalharás com uma vara de ferro;
 tu os despedaçarás como a um vaso de oleiro.
 
-[Refrão] (v. 4-6)
+[Refrão]
 Aquele que habita nos céus se rirá;
 o Senhor zombará deles.
 Então lhes falará na sua ira,
@@ -35,13 +35,13 @@ e no seu furor os turbará, dizendo:
 Eu, porém, ungi o meu Rei
 sobre o meu santo monte de Sião.
 
-[Bridge] (v. 10-11)
+[Bridge]
 Agora, pois, ó reis, sede prudentes;
 deixai-vos instruir, juízes da terra.
 Servi ao SENHOR com temor,
 e alegrai-vos com tremor.
 
-[Refrão Final] (v. 12)
+[Refrão Final]
 Beijai o Filho, para que se não ire,
 e pereçais no caminho,
 quando em breve se acender a sua ira.

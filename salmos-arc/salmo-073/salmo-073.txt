@@ -1,7 +1,7 @@
-SALMO 73: Perto de Deus — Arranjo Musical
+SALMO 73: Perto de Deus
 Versão Bíblica: ARC
 
-[Verso 1] (v. 1-3)
+[Verso 1]
 Verdadeiramente bom é Deus para com Israel,
 para com os limpos de coração.
 Quanto a mim, os meus pés quase que se desviaram;
@@ -9,14 +9,14 @@ pouco faltou para que os meus passos escorregassem.
 Porque eu tinha inveja dos néscios,
 quando via a prosperidade dos ímpios.
 
-[Refrão] (v. 25-26)
+[Refrão]
 A quem tenho eu no céu senão a ti?
 E na terra não há quem eu deseje além de ti.
 A minha carne e o meu coração desfalecem;
 mas Deus é a fortaleza do meu coração,
 e a minha porção para sempre.
 
-[Verso 2] (v. 4-12)
+[Verso 2]
 Porque não há apertos na sua morte,
 mas firme está a sua força.
 Não se acham em trabalhos como outra gente,
@@ -36,7 +36,7 @@ e há conhecimento no Altíssimo?
 Eis que estes são ímpios,
 e prosperam no mundo; estes aumentam em riquezas.
 
-[Verso 3] (v. 13-17)
+[Verso 3]
 Na verdade que em vão purifiquei o meu coração,
 e lavei as minhas mãos na inocência.
 Porque todo o dia tenho sido afligido,
@@ -48,7 +48,7 @@ foi-me penoso aos meus olhos,
 até que entrei no santuário de Deus;
 então entendi eu o fim deles.
 
-[Bridge] (v. 18-24)
+[Bridge]
 Certamente tu os puseste em lugares escorregadios;
 tu os lanças em destruição.
 Como caíram na desolação, quase num momento!
@@ -65,7 +65,7 @@ tu me sustentaste pela minha mão direita.
 Guiar-me-ás com o teu conselho,
 e depois me receberás em glória.
 
-[Refrão Final] (v. 25-28)
+[Refrão Final]
 A quem tenho eu no céu senão a ti?
 E na terra não há quem eu deseje além de ti.
 A minha carne e o meu coração desfalecem;

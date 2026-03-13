@@ -1,7 +1,7 @@
-SALMO 31: Nas Tuas Mãos — Arranjo Musical
+SALMO 31: Nas Tuas Mãos
 Versão Bíblica: ARC
 
-[Verso 1] (v. 1-5)
+[Verso 1]
 Em ti, SENHOR, confio; nunca me deixes confundido;
 livra-me pela tua justiça.
 Inclina para mim os teus ouvidos; livra-me depressa;
@@ -13,13 +13,13 @@ pois tu és a minha força.
 Nas tuas mãos encomendo o meu espírito;
 tu me redimiste, SENHOR Deus da verdade.
 
-[Refrão] (v. 19)
+[Refrão]
 Oh, quão grande é a tua bondade,
 que guardaste para os que te temem,
 e que operaste para aqueles que em ti confiam
 na presença dos filhos dos homens!
 
-[Verso 2] (v. 6-8)
+[Verso 2]
 Odeio os que se entregam a vaidades enganosas;
 eu, porém, confio no SENHOR.
 Em tua benignidade me alegrarei e regozijarei,
@@ -28,7 +28,7 @@ conheceste a minha alma nas angústias.
 E não me entregaste nas mãos do inimigo;
 puseste os meus pés num lugar espaçoso.
 
-[Verso 3] (v. 9-13)
+[Verso 3]
 Tem misericórdia de mim, ó SENHOR,
 porque estou angustiado;
 consumidos de tristeza estão os meus olhos,
@@ -48,13 +48,13 @@ o terror estava por todos os lados;
 quando juntamente se mancomunaram contra mim,
 e tramaram tirar-me a vida.
 
-[Refrão] (v. 19)
+[Refrão]
 Oh, quão grande é a tua bondade,
 que guardaste para os que te temem,
 e que operaste para aqueles que em ti confiam
 na presença dos filhos dos homens!
 
-[Verso 4] (v. 14-18)
+[Verso 4]
 Mas eu confiei em ti, SENHOR;
 e disse: Tu és o meu Deus.
 Os meus tempos estão nas tuas mãos;
@@ -69,7 +69,7 @@ Emudeçam os lábios mentirosos
 que falam coisas duras contra o justo,
 com soberba e desprezo.
 
-[Bridge] (v. 20-22)
+[Bridge]
 Tu os esconderás no recôndito da tua presença
 das conspirações do homem;
 oculta-los-ás em um pavilhão da contenda das línguas.
@@ -80,7 +80,7 @@ Eu dizia na minha pressa: Estou cortado de diante dos teus olhos;
 não obstante, tu ouviste a voz das minhas súplicas
 quando a ti clamei.
 
-[Refrão Final] (v. 23-24)
+[Refrão Final]
 Amai ao SENHOR, vós todos que sois seus santos;
 porque o SENHOR guarda os fiéis,
 e retribui com abundância ao que usa de soberba.

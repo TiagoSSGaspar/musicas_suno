@@ -1,7 +1,7 @@
-SALMO 119: Lâmpada Para os Meus Pés — Arranjo Musical
+SALMO 119: Lâmpada Para os Meus Pés
 Versão Bíblica: ARC
 
-[Verso 1 — Álefe] (v. 1-8)
+[Verso 1 — Álefe]
 Bem-aventurados os que trilham caminhos retos,
 os que andam na lei do SENHOR.
 Bem-aventurados os que guardam os seus testemunhos,
@@ -19,7 +19,7 @@ quando tiver aprendido os teus justos juízos.
 Observarei os teus estatutos;
 não me desampares totalmente.
 
-[Verso 2 — Bete] (v. 9-16)
+[Verso 2 — Bete]
 Com que purificará o jovem o seu caminho?
 Observando-o conforme a tua palavra.
 De todo o meu coração te busquei;
@@ -37,11 +37,11 @@ e terei respeito aos teus caminhos.
 Deleitar-me-ei nos teus estatutos;
 não me esquecerei da tua palavra.
 
-[Refrão] (v. 105)
+[Refrão]
 Lâmpada para os meus pés é tua palavra,
 e luz para o meu caminho.
 
-[Verso 3 — Guímel] (v. 17-24)
+[Verso 3 — Guímel]
 Faze bem ao teu servo, para que eu viva
 e observe a tua palavra.
 Desvenda os meus olhos, para que veja
@@ -59,7 +59,7 @@ mas o teu servo meditou nos teus estatutos.
 Os teus testemunhos são as minhas delícias,
 são os meus conselheiros.
 
-[Verso 4 — Dálete] (v. 25-32)
+[Verso 4 — Dálete]
 A minha alma está pegada ao pó;
 vivifica-me segundo a tua palavra.
 Manifestei os meus caminhos, e tu me ouviste;
@@ -77,7 +77,7 @@ SENHOR, não me confundas.
 Correrei pelo caminho dos teus mandamentos,
 quando dilatares o meu coração.
 
-[Verso 5 — Hê] (v. 33-40)
+[Verso 5 — Hê]
 Ensina-me, SENHOR, o caminho dos teus estatutos,
 e guardá-lo-ei até ao fim.
 Dá-me entendimento, e guardarei a tua lei;
@@ -95,11 +95,11 @@ pois os teus juízos são bons.
 Eis que tenho desejado os teus preceitos;
 vivifica-me na tua justiça.
 
-[Refrão] (v. 105)
+[Refrão]
 Lâmpada para os meus pés é tua palavra,
 e luz para o meu caminho.
 
-[Verso 6 — Vau] (v. 41-48)
+[Verso 6 — Vau]
 Venham sobre mim as tuas beneficências, SENHOR,
 e a tua salvação, segundo a tua palavra.
 E assim terei que responder ao que me afronta,
@@ -117,7 +117,7 @@ os quais eu amo.
 E levantarei as minhas mãos para os teus mandamentos,
 que amo, e meditarei nos teus estatutos.
 
-[Verso 7 — Zain] (v. 49-56)
+[Verso 7 — Zain]
 Lembra-te da palavra dada ao teu servo,
 na qual me fizeste esperar.
 Isto é a minha consolação na minha aflição,
@@ -134,7 +134,7 @@ De noite me lembrei do teu nome, SENHOR,
 e observei a tua lei.
 Isto me coube, porque guardei os teus preceitos.
 
-[Verso 8 — Hete] (v. 57-64)
+[Verso 8 — Hete]
 A minha porção é o SENHOR;
 eu disse que observaria as tuas palavras.
 Supliquei o teu favor de todo o meu coração;
@@ -152,7 +152,7 @@ e dos que guardam os teus preceitos.
 A terra, SENHOR, está cheia da tua benignidade;
 ensina-me os teus estatutos.
 
-[Bridge — Tete] (v. 65-72)
+[Bridge — Tete]
 Fizeste bem ao teu servo,
 SENHOR, segundo a tua palavra.
 Ensina-me bom juízo e ciência,
@@ -170,7 +170,7 @@ para que aprendesse os teus estatutos.
 Melhor é para mim a lei da tua boca,
 do que milhares de ouro e de prata.
 
-[Verso 9 — Iode] (v. 73-80)
+[Verso 9 — Iode]
 As tuas mãos me fizeram e me formaram;
 dá-me inteligência para aprender os teus mandamentos.
 Os que te temem me verão e se alegrarão,
@@ -188,7 +188,7 @@ e os que conhecem os teus testemunhos.
 Seja o meu coração reto nos teus estatutos,
 para que eu não seja confundido.
 
-[Verso 10 — Café] (v. 81-88)
+[Verso 10 — Café]
 A minha alma desfalece pela tua salvação;
 espero na tua palavra.
 Os meus olhos desfaleceram pela tua palavra, dizendo:
@@ -206,11 +206,11 @@ mas eu não abandonei os teus preceitos.
 Vivifica-me segundo a tua benignidade;
 assim guardarei o testemunho da tua boca.
 
-[Refrão] (v. 105)
+[Refrão]
 Lâmpada para os meus pés é tua palavra,
 e luz para o meu caminho.
 
-[Verso 11 — Lâmede] (v. 89-96)
+[Verso 11 — Lâmede]
 Para sempre, ó SENHOR,
 a tua palavra permanece no céu.
 A tua fidelidade estende-se de geração a geração;
@@ -228,7 +228,7 @@ mas eu contemplarei os teus testemunhos.
 A toda a perfeição vi limite;
 mas o teu mandamento é amplíssimo.
 
-[Verso 12 — Mem] (v. 97-104)
+[Verso 12 — Mem]
 Oh! quanto amo a tua lei!
 É a minha meditação em todo o dia!
 Tu, pelos teus mandamentos, me fazes mais sábio do que os meus inimigos;
@@ -246,7 +246,7 @@ Mais doces do que o mel à minha boca.
 Pelos teus preceitos alcancei entendimento;
 pelo que odeio todo falso caminho.
 
-[Verso 13 — Nun] (v. 105-112)
+[Verso 13 — Nun]
 Lâmpada para os meus pés é tua palavra,
 e luz para o meu caminho.
 Jurei, e o cumprirei:
@@ -264,7 +264,7 @@ pois são o gozo do meu coração.
 Inclinei o meu coração a guardar os teus estatutos,
 para sempre, até ao fim.
 
-[Verso 14 — Sâmeque] (v. 113-120)
+[Verso 14 — Sâmeque]
 Aborreço os pensamentos vãos;
 mas amo a tua lei.
 Tu és o meu refúgio e o meu escudo;
@@ -282,7 +282,7 @@ pelo que amo os teus testemunhos.
 A minha carne se arrepia por temor de ti;
 e eu temo os teus juízos.
 
-[Verso 15 — Ain] (v. 121-128)
+[Verso 15 — Ain]
 Pratiquei o juízo e a justiça;
 não me deixes com os que me oprimem.
 Fia-te do teu servo para o bem;
@@ -300,7 +300,7 @@ mais do que o ouro, sim, mais do que o ouro fino.
 Por isso estimo retos todos os teus preceitos sobre todas as coisas,
 e aborreço todo caminho de falsidade.
 
-[Bridge — Pê] (v. 129-136)
+[Bridge — Pê]
 Maravilhosos são os teus testemunhos;
 por isso a minha alma os guarda.
 A revelação das tuas palavras dá luz;
@@ -318,7 +318,7 @@ e ensina-me os teus estatutos.
 Rios de águas correm dos meus olhos,
 porque não guardam a tua lei.
 
-[Verso 16 — Tsade] (v. 137-144)
+[Verso 16 — Tsade]
 Justo és, SENHOR,
 e retos são os teus juízos.
 Ordenaste os teus testemunhos em justiça
@@ -336,7 +336,7 @@ todavia os teus mandamentos são as minhas delícias.
 A justiça dos teus testemunhos é eterna;
 dá-me entendimento, e viverei.
 
-[Verso 17 — Cofe] (v. 145-152)
+[Verso 17 — Cofe]
 Clamei de todo o meu coração; ouve-me, SENHOR;
 guardarei os teus estatutos.
 Clamei a ti; salva-me,
@@ -354,7 +354,7 @@ e todos os teus mandamentos são verdade.
 Acerca dos teus testemunhos, de há muito sei
 que os fundaste para sempre.
 
-[Verso 18 — Resh] (v. 153-160)
+[Verso 18 — Resh]
 Olha para a minha aflição, e livra-me;
 pois não me esqueci da tua lei.
 Pleiteia a minha causa, e resgata-me;
@@ -372,7 +372,7 @@ vivifica-me, ó SENHOR, segundo a tua benignidade.
 A soma da tua palavra é a verdade,
 e cada um dos teus juízos justos dura para sempre.
 
-[Verso 19 — Shin] (v. 161-168)
+[Verso 19 — Shin]
 Príncipes me perseguiram sem causa,
 mas o meu coração teme a tua palavra.
 Folgo com a tua palavra,
@@ -390,7 +390,7 @@ amo-os muito.
 Tenho guardado os teus preceitos e os teus testemunhos;
 porque todos os meus caminhos estão diante de ti.
 
-[Refrão Final — Tau] (v. 169-176)
+[Refrão Final — Tau]
 Chegue a minha súplica perante a tua face, SENHOR;
 dá-me entendimento conforme a tua palavra.
 Chegue a minha oração perante a tua face;

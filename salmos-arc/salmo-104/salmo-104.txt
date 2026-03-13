@@ -1,7 +1,7 @@
-SALMO 104: A Grandeza da Criação — Arranjo Musical
+SALMO 104: A Grandeza da Criação
 Versão Bíblica: ARC
 
-[Verso 1] (v. 1-4)
+[Verso 1]
 Bendize, ó minha alma, ao SENHOR!
 SENHOR Deus meu, tu és magnificentíssimo;
 estás vestido de glória e de majestade.
@@ -13,12 +13,12 @@ anda sobre as asas do vento.
 Faz dos seus anjos espíritos,
 dos seus ministros um fogo abrasador.
 
-[Refrão] (v. 24)
+[Refrão]
 Quão variadas são as tuas obras, SENHOR!
 Todas as coisas fizeste com sabedoria;
 cheia está a terra das tuas riquezas.
 
-[Verso 2] (v. 5-9)
+[Verso 2]
 Lançou os fundamentos da terra;
 ela não vacilará em tempo algum.
 Tu a cobriste com o abismo, como com uma veste;
@@ -30,7 +30,7 @@ até ao lugar que para elas fundaste.
 Termo lhes puseste, que não ultrapassarão,
 para que não tornem mais a cobrir a terra.
 
-[Verso 3] (v. 10-18)
+[Verso 3]
 Tu mandas as fontes aos vales,
 que vão correndo entre os montes.
 Dão de beber a todos os animais do campo;
@@ -52,7 +52,7 @@ a cegonha faz a sua casa nos ciprestes.
 Os montes altos são para as cabras montesas,
 e as rochas são refúgio para os coelhos.
 
-[Verso 4] (v. 19-23)
+[Verso 4]
 Designou a lua para as estações;
 o sol conhece o seu ocaso.
 Ordenas as trevas, e faz-se noite,
@@ -64,12 +64,12 @@ e se deitam nos seus covis.
 Então sai o homem à sua obra,
 e ao seu trabalho até à tarde.
 
-[Refrão] (v. 24)
+[Refrão]
 Quão variadas são as tuas obras, SENHOR!
 Todas as coisas fizeste com sabedoria;
 cheia está a terra das tuas riquezas.
 
-[Bridge] (v. 27-30)
+[Bridge]
 Todos esperam de ti,
 que lhes dê o seu sustento em tempo oportuno.
 Dando-lho tu, eles o recolhem;
@@ -80,7 +80,7 @@ e voltam para o seu pó.
 Envias o teu Espírito, e são criados,
 e assim renovas a face da terra.
 
-[Refrão Final] (v. 33-35)
+[Refrão Final]
 Cantarei ao SENHOR enquanto eu viver;
 cantarei louvores ao meu Deus enquanto eu tiver ser.
 A minha meditação acerca dele será suave;

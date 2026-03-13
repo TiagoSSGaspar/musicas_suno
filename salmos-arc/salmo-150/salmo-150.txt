@@ -1,14 +1,14 @@
-SALMO 150: Tudo Que Tem Fôlego — Arranjo Musical
+SALMO 150: Tudo Que Tem Fôlego
 Versão Bíblica: ARC
 
-[Verso 1] (v. 1-2)
+[Verso 1]
 Louvai ao SENHOR.
 Louvai a Deus no seu santuário;
 louvai-o no firmamento do seu poder.
 Louvai-o pelos seus atos poderosos;
 louvai-o conforme a excelência da sua grandeza.
 
-[Bridge] (v. 3-5)
+[Bridge]
 Louvai-o com o som de trombeta;
 louvai-o com o saltério e a harpa.
 Louvai-o com o tamboril e a dança;
@@ -16,6 +16,6 @@ louvai-o com instrumentos de cordas e com órgãos.
 Louvai-o com címbalos sonoros;
 louvai-o com címbalos altissonantes.
 
-[Refrão Final] (v. 6)
+[Refrão Final]
 Tudo quanto tem fôlego louve ao SENHOR.
 Louvai ao SENHOR.

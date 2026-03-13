@@ -1,7 +1,7 @@
-SALMO 79: Herança das Nações — Arranjo Musical
+SALMO 79: Herança das Nações
 Versão Bíblica: ARC
 
-[Verso 1] (v. 1-4)
+[Verso 1]
 Ó Deus, os gentios vieram à tua herança;
 contaminaram o teu santo templo;
 reduziram Jerusalém a montões de pedras.
@@ -13,13 +13,13 @@ ao redor de Jerusalém, e não houve quem os enterrasse.
 Fomos feitos um opróbrio para os nossos vizinhos,
 escárnio e riso para os que estão ao redor de nós.
 
-[Refrão] (v. 9)
+[Refrão]
 Ajuda-nos, ó Deus da nossa salvação,
 pela glória do teu nome;
 e livra-nos, e perdoa os nossos pecados,
 por amor do teu nome.
 
-[Verso 2] (v. 5-8)
+[Verso 2]
 Até quando, ó SENHOR? Acaso te indignarás para sempre?
 Arderá como fogo o teu zelo?
 Derrama a tua indignação sobre os gentios que te não conhecem,
@@ -30,7 +30,7 @@ Não te lembres contra nós das iniquidades dos nossos antepassados;
 apressem-se as tuas misericórdias em nos prevenir,
 pois estamos muito abatidos.
 
-[Bridge] (v. 10-12)
+[Bridge]
 Por que diriam os gentios: Onde está o seu Deus?
 Seja satisfação entre os gentios, perante os nossos olhos,
 a vingança do sangue derramado dos teus servos.
@@ -40,7 +40,7 @@ preserva aqueles que estão sentenciados à morte.
 E torna aos nossos vizinhos sete vezes
 no seu seio a afronta com que te afrontaram, ó Senhor.
 
-[Refrão Final] (v. 13)
+[Refrão Final]
 Assim nós, teu povo e ovelhas do teu pasto,
 te louvaremos eternamente;
 de geração em geração cantaremos os teus louvores.

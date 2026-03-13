@@ -1,7 +1,7 @@
-SALMO 25: A Ti Levanto a Minha Alma — Arranjo Musical
+SALMO 25: A Ti Levanto a Minha Alma
 Versão Bíblica: ARC
 
-[Verso 1] (v. 1-3)
+[Verso 1]
 A ti, SENHOR, levanto a minha alma.
 Deus meu, em ti confio;
 não me deixes confundido,
@@ -10,14 +10,14 @@ Na verdade, não serão confundidos
 os que esperam em ti;
 confundidos serão os que transgridem sem causa.
 
-[Refrão] (v. 4-5)
+[Refrão]
 Faze-me saber os teus caminhos, SENHOR;
 ensina-me as tuas veredas.
 Guia-me na tua verdade, e ensina-me,
 pois tu és o Deus da minha salvação;
 por ti estou esperando todo o dia.
 
-[Verso 2] (v. 6-7)
+[Verso 2]
 Lembra-te, SENHOR, das tuas misericórdias
 e das tuas benignidades, porque são desde a eternidade.
 Não te lembres dos pecados da minha mocidade
@@ -25,14 +25,14 @@ nem das minhas transgressões;
 mas segundo a tua misericórdia, lembra-te de mim,
 por tua bondade, SENHOR.
 
-[Refrão] (v. 4-5)
+[Refrão]
 Faze-me saber os teus caminhos, SENHOR;
 ensina-me as tuas veredas.
 Guia-me na tua verdade, e ensina-me,
 pois tu és o Deus da minha salvação;
 por ti estou esperando todo o dia.
 
-[Verso 3] (v. 8-10)
+[Verso 3]
 Bom e reto é o SENHOR;
 por isso ensinará o caminho aos pecadores.
 Guiará os mansos em justiça;
@@ -40,7 +40,7 @@ e aos mansos ensinará o seu caminho.
 Todas as veredas do SENHOR são misericórdia e verdade
 para aqueles que guardam a sua aliança e os seus testemunhos.
 
-[Verso 4] (v. 11-15)
+[Verso 4]
 Por amor do teu nome, SENHOR,
 perdoa a minha iniquidade, pois é grande.
 Qual é o homem que teme ao SENHOR?
@@ -52,7 +52,7 @@ e ele lhes mostrará a sua aliança.
 Os meus olhos estão continuamente no SENHOR,
 pois ele tirará os meus pés da rede.
 
-[Bridge] (v. 16-19)
+[Bridge]
 Olha para mim, e tem piedade de mim,
 porque estou solitário e aflito.
 As angústias do meu coração se têm multiplicado;
@@ -62,7 +62,7 @@ e perdoa todos os meus pecados.
 Olha para os meus inimigos, pois se têm multiplicado,
 e me aborrecem com ódio cruel.
 
-[Refrão Final] (v. 20-22)
+[Refrão Final]
 Guarda a minha alma, e livra-me;
 não me deixes confundido, porquanto confio em ti.
 Guardem-me a sinceridade e a retidão,

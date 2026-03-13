@@ -1,7 +1,7 @@
-SALMO 105: As Maravilhas de Deus — Arranjo Musical
+SALMO 105: As Maravilhas de Deus
 Versão Bíblica: ARC
 
-[Verso 1] (v. 1-6)
+[Verso 1]
 Louvai ao SENHOR, e invocai o seu nome;
 fazei conhecidas as suas obras entre os povos.
 Cantai-lhe, cantai-lhe salmos;
@@ -15,13 +15,13 @@ dos seus prodígios e dos juízos da sua boca,
 vós, semente de Abraão, seu servo,
 vós, filhos de Jacó, seus escolhidos.
 
-[Refrão] (v. 7-8)
+[Refrão]
 Ele é o SENHOR nosso Deus;
 os seus juízos estão em toda a terra.
 Lembrou-se da sua aliança para sempre,
 da palavra que satisfeita para mil gerações.
 
-[Verso 2] (v. 9-15)
+[Verso 2]
 Da aliança que fez com Abraão,
 e do seu juramento a Isaque;
 e confirmou o mesmo a Jacó por lei,
@@ -37,7 +37,7 @@ e por amor deles repreendeu a reis, dizendo:
 Não toqueis os meus ungidos,
 e não maltrateis os meus profetas.
 
-[Verso 3] (v. 16-25)
+[Verso 3]
 Chamou a fome sobre a terra,
 quebrou todo o sustento do pão.
 Mandou perante eles um homem,
@@ -59,7 +59,7 @@ e o fez mais forte do que os seus inimigos.
 Virou o coração deles para que aborressem o seu povo,
 e tratassem os seus servos com astúcia.
 
-[Bridge] (v. 26-38)
+[Bridge]
 Enviou Moisés, seu servo, e Arão, a quem escolhera.
 Mostraram entre eles os seus sinais e os prodígios na terra de Cam.
 Mandou trevas, e fez escurecer;
@@ -78,7 +78,7 @@ e entre as suas tribos não houve quem tropeçasse.
 O Egito se alegrou quando eles saíram,
 porque o seu medo caíra sobre eles.
 
-[Refrão Final] (v. 42-45)
+[Refrão Final]
 Porque se lembrou da sua santa palavra,
 e de Abraão, seu servo.
 E tirou o seu povo com alegria,

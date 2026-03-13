@@ -1,7 +1,7 @@
-SALMO 99: Santo É Ele — Arranjo Musical
+SALMO 99: Santo É Ele
 Versão Bíblica: ARC
 
-[Verso 1] (v. 1-3)
+[Verso 1]
 O SENHOR reina; tremam os povos.
 Ele está assentado entre os querubins; comova-se a terra.
 O SENHOR é grande em Sião,
@@ -9,17 +9,17 @@ e excelso sobre todos os povos.
 Louvem o teu nome, grande e tremendo;
 ele é santo.
 
-[Refrão] (v. 5)
+[Refrão]
 Exaltai ao SENHOR nosso Deus,
 e prostrai-vos ante o escabelo de seus pés.
 Ele é santo.
 
-[Verso 2] (v. 4)
+[Verso 2]
 A força do Rei também ama o juízo;
 tu firmas a equidade, executas juízo
 e justiça em Jacó.
 
-[Verso 3] (v. 6-7)
+[Verso 3]
 Moisés e Arão entre os seus sacerdotes,
 e Samuel entre os que invocam o seu nome,
 clamavam ao SENHOR, e ele os ouvia.
@@ -27,12 +27,12 @@ Na coluna de nuvem lhes falava;
 eles guardaram os seus testemunhos
 e os estatutos que lhes dera.
 
-[Bridge] (v. 8)
+[Bridge]
 Tu os ouviste, SENHOR nosso Deus;
 tu foste um Deus que lhes perdoaste,
 ainda que tomaste vingança das suas obras.
 
-[Refrão Final] (v. 9)
+[Refrão Final]
 Exaltai ao SENHOR nosso Deus,
 e prostrai-vos ante o seu santo monte;
 porque o SENHOR nosso Deus é santo.

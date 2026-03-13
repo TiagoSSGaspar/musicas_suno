@@ -1,7 +1,7 @@
-SALMO 128: A Bênção do Lar — Arranjo Musical
+SALMO 128: A Bênção do Lar
 Versão Bíblica: ARC
 
-[Verso 1] (v. 1-3)
+[Verso 1]
 Bem-aventurado aquele que teme ao SENHOR
 e anda nos seus caminhos.
 Pois comerás do trabalho das tuas mãos;
@@ -11,7 +11,7 @@ aos lados da tua casa;
 os teus filhos como plantas de oliveira,
 à roda da tua mesa.
 
-[Refrão Final] (v. 4-6)
+[Refrão Final]
 Eis que assim será abençoado o homem
 que teme ao SENHOR.
 O SENHOR te abençoará desde Sião,

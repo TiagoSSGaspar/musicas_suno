@@ -1,7 +1,7 @@
-SALMO 147: Sara os Quebrantados — Arranjo Musical
+SALMO 147: Sara os Quebrantados
 Versão Bíblica: ARC
 
-[Verso 1] (v. 1-6)
+[Verso 1]
 Louvai ao SENHOR, porque é bom cantar louvores ao nosso Deus,
 porque é agradável; o louvor é decoroso.
 O SENHOR edifica Jerusalém;
@@ -15,7 +15,7 @@ o seu entendimento é infinito.
 O SENHOR eleva os humildes;
 e abate os ímpios até à terra.
 
-[Refrão] (v. 7-9)
+[Refrão]
 Cantai ao SENHOR em ação de graças;
 cantai louvores sobre a harpa ao nosso Deus;
 que cobre os céus de nuvens,
@@ -24,7 +24,7 @@ que faz produzir erva sobre os montes.
 Que dá aos animais o seu sustento,
 e aos filhos dos corvos, quando clamam.
 
-[Verso 2] (v. 10-14)
+[Verso 2]
 Não se deleita na força do cavalo,
 nem se compraz nas pernas do homem.
 O SENHOR se agrada dos que o temem,
@@ -36,7 +36,7 @@ abençoou os teus filhos dentro de ti.
 Ele é o que estabelece a paz nas tuas fronteiras;
 farta-te com o mais fino trigo.
 
-[Bridge] (v. 15-18)
+[Bridge]
 Envia o seu mandamento à terra;
 a sua palavra corre velocíssima.
 Dá a neve como lã,
@@ -46,7 +46,7 @@ perante o seu frio quem pode subsistir?
 Manda a sua palavra, e os faz derreter;
 faz soprar o seu vento, e correm as águas.
 
-[Refrão Final] (v. 19-20)
+[Refrão Final]
 Mostra a sua palavra a Jacó,
 os seus estatutos e os seus juízos a Israel.
 Não fez assim a nenhuma outra nação;

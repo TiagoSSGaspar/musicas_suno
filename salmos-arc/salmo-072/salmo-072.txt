@@ -1,7 +1,7 @@
-SALMO 72: O Rei de Justiça — Arranjo Musical
+SALMO 72: O Rei de Justiça
 Versão Bíblica: ARC
 
-[Verso 1] (v. 1-4)
+[Verso 1]
 Ó Deus, dá ao rei os teus juízos,
 e a tua justiça ao filho do rei.
 Ele julgará ao teu povo com justiça,
@@ -12,14 +12,14 @@ Julgará os aflitos do povo,
 salvará os filhos do necessitado,
 e quebrantará o opressor.
 
-[Refrão] (v. 18-19)
+[Refrão]
 Bendito seja o SENHOR Deus, o Deus de Israel,
 que só ele faz coisas maravilhosas.
 E bendito seja para sempre o seu nome glorioso;
 e encha-se toda a terra da sua glória.
 Amém e amém.
 
-[Verso 2] (v. 5-11)
+[Verso 2]
 Temer-te-ão enquanto durarem o sol e a lua,
 de geração em geração.
 Ele descerá como chuva sobre a erva ceifada,
@@ -35,7 +35,7 @@ os reis de Sabá e de Seba oferecerão dons.
 E todos os reis se prostrarão perante ele;
 todas as nações o servirão.
 
-[Verso 3] (v. 12-14)
+[Verso 3]
 Porque ele livrará ao necessitado quando clamar;
 e ao aflito que não tiver quem o ajude.
 Compadecer-se-á do pobre e do necessitado,
@@ -43,7 +43,7 @@ e salvará as almas dos necessitados.
 Libertará as suas almas do engano e da violência,
 e precioso será o seu sangue aos olhos dele.
 
-[Bridge] (v. 15-17)
+[Bridge]
 E viverá; e se lhe dará do ouro de Sabá,
 e continuamente se fará oração por ele,
 e todo o dia o bendirão.
@@ -56,7 +56,7 @@ enquanto o sol durar,
 e os homens serão abençoados nele;
 todas as nações lhe chamarão bem-aventurado.
 
-[Refrão Final] (v. 18-19)
+[Refrão Final]
 Bendito seja o SENHOR Deus, o Deus de Israel,
 que só ele faz coisas maravilhosas.
 E bendito seja para sempre o seu nome glorioso;

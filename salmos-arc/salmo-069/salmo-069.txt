@@ -1,7 +1,7 @@
-SALMO 69: As Águas Me Sobem à Alma — Arranjo Musical
+SALMO 69: As Águas Me Sobem à Alma
 Versão Bíblica: ARC
 
-[Verso 1] (v. 1-4)
+[Verso 1]
 Salva-me, ó Deus, porque as águas me entraram até à alma.
 Estou atolado num pântano profundo, onde não se pode estar em pé;
 estou em profundas águas, onde a corrente me cobre.
@@ -11,13 +11,13 @@ Aqueles que me odeiam sem causa são mais do que os cabelos da minha cabeça;
 os que procuram destruir-me, sendo injustamente meus inimigos, são poderosos;
 então restituí o que não furtei.
 
-[Refrão] (v. 13)
+[Refrão]
 Quanto a mim, faço a minha oração a ti, SENHOR,
 num tempo aceitável;
 ó Deus, segundo a grandeza da tua misericórdia,
 ouve-me segundo a verdade da tua salvação.
 
-[Verso 2] (v. 5-12)
+[Verso 2]
 Ó Deus, bem conheces a minha estultícia;
 e os meus pecados não te são encobertos.
 Não sejam envergonhados por minha causa
@@ -37,13 +37,13 @@ então me fizeram o seu provérbio.
 Os que estão assentados à porta falam contra mim;
 e eu sou a canção dos bebedores de bebida forte.
 
-[Refrão] (v. 13)
+[Refrão]
 Quanto a mim, faço a minha oração a ti, SENHOR,
 num tempo aceitável;
 ó Deus, segundo a grandeza da tua misericórdia,
 ouve-me segundo a verdade da tua salvação.
 
-[Verso 3] (v. 14-21)
+[Verso 3]
 Tira-me do lodo, e não me deixes atolar;
 seja eu livre dos que me odeiam e das profundezas das águas.
 Não me leve a corrente das águas,
@@ -64,7 +64,7 @@ e por consoladores, mas não os achei.
 Deram-me fel por mantimento,
 e na minha sede me deram a beber vinagre.
 
-[Bridge] (v. 30-33)
+[Bridge]
 Louvarei o nome de Deus com cântico,
 e engrandecê-lo-ei com ação de graças.
 E isto agradará mais ao SENHOR do que boi
@@ -74,7 +74,7 @@ e o vosso coração viverá, vós que buscais a Deus.
 Porque o SENHOR ouve os necessitados,
 e não despreza os seus, quando presos.
 
-[Refrão Final] (v. 34-36)
+[Refrão Final]
 Louvem-no os céus e a terra,
 os mares e tudo quanto neles se move.
 Porque Deus salvará a Sião,

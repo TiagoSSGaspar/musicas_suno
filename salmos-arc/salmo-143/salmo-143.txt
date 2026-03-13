@@ -1,7 +1,7 @@
-SALMO 143: Ensina-me a Tua Vontade — Arranjo Musical
+SALMO 143: Ensina-me a Tua Vontade
 Versão Bíblica: ARC
 
-[Verso 1] (v. 1-4)
+[Verso 1]
 Ouve, SENHOR, a minha oração, inclina os teus ouvidos às minhas súplicas;
 escuta-me segundo a tua fidelidade, e segundo a tua justiça.
 E não entres em juízo com o teu servo,
@@ -12,7 +12,7 @@ fez-me habitar em trevas, como aqueles que morreram há muito.
 Por isso o meu espírito se angustia dentro em mim;
 o meu coração dentro de mim está desolado.
 
-[Verso 2] (v. 5-6)
+[Verso 2]
 Lembro-me dos dias antigos;
 considero todas as tuas obras;
 medito na obra das tuas mãos.
@@ -20,7 +20,7 @@ Estendo as minhas mãos para ti;
 a minha alma tem sede de ti,
 como terra sedenta. (Selá)
 
-[Refrão] (v. 7-8)
+[Refrão]
 Ouve-me depressa, SENHOR,
 porque o meu espírito desfalece;
 não escondas de mim a tua face,
@@ -30,7 +30,7 @@ pois em ti confio;
 faze-me saber o caminho em que devo andar,
 porque a ti levanto a minha alma.
 
-[Refrão Final] (v. 9-12)
+[Refrão Final]
 Livra-me, SENHOR, dos meus inimigos;
 fujo para ti, para me esconder.
 Ensina-me a fazer a tua vontade,

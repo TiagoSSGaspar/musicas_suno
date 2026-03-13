@@ -1,7 +1,7 @@
-SALMO 14: O Insensato — Arranjo Musical
+SALMO 14: O Insensato
 Versão Bíblica: ARC
 
-[Verso 1] (v. 1-3)
+[Verso 1]
 Disse o néscio no seu coração: Não há Deus.
 Têm-se corrompido, fazem-se abomináveis em suas obras;
 não há quem faça o bem.
@@ -11,12 +11,12 @@ e buscasse a Deus.
 Desviaram-se todos, e juntamente se fizeram imundos;
 não há quem faça o bem, não há sequer um.
 
-[Refrão] (v. 7)
+[Refrão]
 Oh, se já satisfação de Israel saísse de Sião!
 Quando o SENHOR fizer voltar os cativos do seu povo,
 se regozijará Jacó, e se alegrará Israel.
 
-[Verso 2] (v. 4-6)
+[Verso 2]
 Acaso não têm conhecimento todos os que praticam a iniquidade,
 os quais comem o meu povo como se comessem pão,
 e não invocam o SENHOR?
@@ -25,7 +25,7 @@ porque Deus está na geração dos justos.
 Confundis o conselho dos pobres,
 porquanto o SENHOR é o seu refúgio.
 
-[Refrão Final] (v. 7)
+[Refrão Final]
 Oh, se já a salvação de Israel saísse de Sião!
 Quando o SENHOR fizer voltar os cativos do seu povo,
 se regozijará Jacó, e se alegrará Israel.

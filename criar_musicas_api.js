@@ -13,7 +13,8 @@ const ESTILOS_FILE = path.join(BASE_DIR, 'estilos_suno.txt');
 const AUTH_BEARER = process.env.SUNO_BEARER;
 const BROWSER_TOKEN = process.env.SUNO_BROWSER_TOKEN;
 const DEVICE_ID = process.env.SUNO_DEVICE_ID || '17d158fd-5210-4000-a6fc-1fb07aeb22bf';
-const PERSONA_ID = process.env.SUNO_PERSONA_ID;
+// Personas a serem carregadas do json em tempo de execução
+// USER_TIER e TURNSTILE são opcionais — lidos do env se existirem
 const USER_TIER = process.env.SUNO_USER_TIER || null;
 const TURNSTILE_TOKEN = process.env.SUNO_TURNSTILE_TOKEN || null;
 
@@ -23,26 +24,25 @@ if (!AUTH_BEARER || !BROWSER_TOKEN) {
     process.exit(1);
 }
 
-if (!PERSONA_ID) {
-    console.error("❌ ERRO: SUNO_PERSONA_ID não definido no .env!");
-    console.error("Descubra seu Persona ID: no Chrome, abra o Network no Suno, clique em uma require de generate e procure o campo \"persona_id\" no payload.");
-    process.exit(1);
-}
+const PERSONAS_FILE = path.join(BASE_DIR, 'personas_suno.json');
 
-const getHeaders = (browserTokenStr) => ({
-    "accept": "*/*",
-    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
-    "authorization": `Bearer ${AUTH_BEARER}`,
-    "browser-token": browserTokenStr || BROWSER_TOKEN,
-    "device-id": DEVICE_ID,
-    "priority": "u=1, i",
-    "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"Google Chrome\";v=\"145\", \"Chromium\";v=\"145\"",
-    "sec-ch-ua-mobile": "?0",
-    "sec-ch-ua-platform": "\"macOS\"",
-    "sec-fetch-dest": "empty",
-    "sec-fetch-mode": "cors",
-    "sec-fetch-site": "same-site",
-    "Referer": "https://suno.com/"
+const getHeaders = () => ({
+    'accept': '*/*',
+    'accept-language': 'pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7',
+    'authorization': `Bearer ${AUTH_BEARER}`,
+    'browser-token': BROWSER_TOKEN,
+    'device-id': DEVICE_ID,
+    'dnt': '1',
+    'origin': 'https://suno.com',
+    'priority': 'u=1, i',
+    'referer': 'https://suno.com/',
+    'sec-ch-ua': '"Not:A-Brand";v="99", "Google Chrome";v="145", "Chromium";v="145"',
+    'sec-ch-ua-mobile': '?0',
+    'sec-ch-ua-platform': '"macOS"',
+    'sec-fetch-dest': 'empty',
+    'sec-fetch-mode': 'cors',
+    'sec-fetch-site': 'same-site',
+    'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36'
 });
 
 
@@ -71,7 +71,7 @@ async function getConcurrentStatus() {
 }
 
 // Func: Criar Música
-async function createSong(title, prompt, tags) {
+async function createSong(title, prompt, tags, personaId) {
     const payload = {
         "project_id": "285f4488-c4e8-4a47-8209-4aa29262b952",
         "token": TURNSTILE_TOKEN,
@@ -84,7 +84,7 @@ async function createSong(title, prompt, tags) {
         "prompt": prompt.substring(0, 5000),
         "make_instrumental": false,
         "user_uploaded_images_b64": null,
-        "persona_id": PERSONA_ID,
+        "persona_id": personaId,
         "metadata": {
             "web_client_pathname": "/create",
             "is_max_mode": false,
@@ -182,9 +182,44 @@ async function main() {
     }
     
     const chosenStyle = styles[styleIdx];
-    console.log(`✅ Você escolheu: ${chosenStyle.name}`);
+    console.log(`✅ Estilo Base escolhido: ${chosenStyle.name}\n`);
 
-    const randVocalsStr = await question("\n👉 Você quer randomizar as vozes (homem/mulher/duo) para cada música? (s/n): ");
+    // Carregar e escolher Personas
+    let personas = [];
+    if (fs.existsSync(PERSONAS_FILE)) {
+        try {
+            const data = JSON.parse(fs.readFileSync(PERSONAS_FILE, 'utf8'));
+            personas = data.personas || [];
+        } catch (e) {
+            console.error("⚠️ Erro ao carregar personas_suno.json");
+        }
+    }
+
+    if (personas.length === 0) {
+        console.error("❌ Nenhuma persona encontrada no arquivo personas_suno.json.");
+        process.exit(1);
+    }
+
+    console.log("👤 Personas disponíveis (Suas vozes pré-salvas no Suno):");
+    personas.forEach((p, idx) => {
+        console.log(`  [${idx + 1}] ${p.name} - ${p.description || ''}`);
+    });
+    
+    let personaIdx = 0;
+    while (true) {
+        const personaChoiceStr = await question("\n👉 Selecione o número da Persona que quer usar: ");
+        const idx = parseInt(personaChoiceStr) - 1;
+        if (idx >= 0 && idx < personas.length) {
+            personaIdx = idx;
+            break;
+        }
+        console.error("❌ Opção de persona inválida.");
+    }
+
+    const chosenPersona = personas[personaIdx];
+    console.log(`✅ Persona escolhida: ${chosenPersona.name}\n`);
+
+    const randVocalsStr = await question("👉 Você quer adicionar tags extras de vozes randômicas (homem/mulher/duo)? \nNota: Usar tags com Personas pode confundir a IA, que tentará mesclar a voz da persona com a tag solicitada. (s/n): ");
     const isRandomizeVocals = randVocalsStr.toLowerCase().startsWith('s');
 
     console.log("\n🚀 Iniciando Lote de Geração via API...");
@@ -231,8 +266,8 @@ async function main() {
             currentStatus = await getConcurrentStatus();
         }
 
-        console.log(`📡 Enviando para a API do Suno...`);
-        const jobResult = await createSong(title, lyrics, finalStylePrompt);
+        console.log(`📡 Enviando para a API do Suno com Persona [${chosenPersona.name}]...`);
+        const jobResult = await createSong(title, lyrics, finalStylePrompt, chosenPersona.id);
 
         if (jobResult && jobResult.id) {
             console.log(`✅ SUCESSO! Job ID: ${jobResult.id}`);
@@ -247,8 +282,8 @@ async function main() {
 
         // Respirar um pouco entre requisições para evitar rate limit do Cloudflare
         if (i < endIdx) {
-            console.log(`⏳ Pausa de 20s antes do próximo...`);
-            await delay(20000);
+            console.log(`⏳ Pausa de 30s antes do próximo...`);
+            await delay(30000);
         }
     }
 

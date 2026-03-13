@@ -1,7 +1,7 @@
-SALMO 65: Coroando o Ano de Bondade — Arranjo Musical
+SALMO 65: Coroando o Ano de Bondade
 Versão Bíblica: ARC
 
-[Verso 1] (v. 1-4)
+[Verso 1]
 A ti, ó Deus, espera o louvor em Sião,
 e a ti se pagará o voto.
 Ó tu que ouves as orações,
@@ -14,13 +14,13 @@ para que habite nos teus átrios;
 nós seremos satisfeitos
 da bondade da tua casa, do teu santo templo.
 
-[Refrão] (v. 5)
+[Refrão]
 Com coisas terríveis em justiça nos responderás,
 ó Deus da nossa salvação;
 esperança de todos os fins da terra,
 e dos que estão longe sobre o mar.
 
-[Verso 2] (v. 6-8)
+[Verso 2]
 O que pela sua força consolida os montes,
 e está cingido de poder;
 o que aquieta o ruído dos mares,
@@ -29,7 +29,7 @@ E os que habitam nos fins da terra
 temem os teus sinais;
 tu fazes alegres as saídas da manhã e da tarde.
 
-[Bridge] (v. 9-11)
+[Bridge]
 Tu visitas a terra, e a regas;
 tu a enriqueces grandemente
 com o rio de Deus, que está cheio de água;
@@ -42,7 +42,7 @@ abençoas as suas novidades.
 Coroas o ano com a tua bondade,
 e as tuas veredas destilam gordura.
 
-[Refrão Final] (v. 12-13)
+[Refrão Final]
 Destilam sobre os pastos do deserto,
 e os outeiros se cingem de alegria.
 Os campos se vestem de rebanhos,

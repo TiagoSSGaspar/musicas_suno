@@ -1,7 +1,7 @@
-SALMO 34: Provai e Vede — Arranjo Musical
+SALMO 34: Provai e Vede
 Versão Bíblica: ARC
 
-[Verso 1] (v. 1-3)
+[Verso 1]
 Louvarei ao SENHOR em todo o tempo;
 o seu louvor estará continuamente na minha boca.
 A minha alma se gloriará no SENHOR;
@@ -9,11 +9,11 @@ os mansos ouvirão e se alegrarão.
 Engrandecei ao SENHOR comigo,
 e juntos exaltemos o seu nome.
 
-[Refrão] (v. 8)
+[Refrão]
 Provai, e vede que o SENHOR é bom;
 bem-aventurado o homem que nele confia.
 
-[Verso 2] (v. 4-7)
+[Verso 2]
 Busquei ao SENHOR, e ele me respondeu;
 livrou-me de todos os meus temores.
 Olharam para ele, e foram iluminados;
@@ -23,11 +23,11 @@ e o salvou de todas as suas angústias.
 O anjo do SENHOR acampa-se ao redor dos que o temem,
 e os livra.
 
-[Refrão] (v. 8)
+[Refrão]
 Provai, e vede que o SENHOR é bom;
 bem-aventurado o homem que nele confia.
 
-[Verso 3] (v. 9-14)
+[Verso 3]
 Temei ao SENHOR, vós os seus santos,
 pois nada falta aos que o temem.
 Os filhos dos leões necessitam e sofrem fome,
@@ -41,7 +41,7 @@ e os teus lábios de falarem o engano.
 Aparta-te do mal, e faze o bem;
 procura a paz, e segue-a.
 
-[Bridge] (v. 15-18)
+[Bridge]
 Os olhos do SENHOR estão sobre os justos,
 e os seus ouvidos atentos ao seu clamor.
 A face do SENHOR está contra os que fazem o mal,
@@ -51,7 +51,7 @@ e os livra de todas as suas angústias.
 Perto está o SENHOR dos que têm o coração quebrantado,
 e salva os contritos de espírito.
 
-[Refrão Final] (v. 19-22)
+[Refrão Final]
 Muitas são as aflições do justo,
 mas o SENHOR o livra de todas.
 Ele lhe guarda todos os seus ossos;

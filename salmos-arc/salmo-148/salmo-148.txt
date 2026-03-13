@@ -1,7 +1,7 @@
-SALMO 148: Louvai Desde os Céus — Arranjo Musical
+SALMO 148: Louvai Desde os Céus
 Versão Bíblica: ARC
 
-[Verso 1] (v. 1-6)
+[Verso 1]
 Louvai ao SENHOR.
 Louvai ao SENHOR desde os céus;
 louvai-o nas alturas.
@@ -16,7 +16,7 @@ porque mandou, e logo foram criados.
 E os confirmou para sempre,
 e lhes deu uma lei que não ultrapassarão.
 
-[Verso 2] (v. 7-10)
+[Verso 2]
 Louvai ao SENHOR desde a terra,
 vós, baleias, e todos os abismos,
 fogo e saraiva, neve e vapores,
@@ -26,13 +26,13 @@ montes e todos os outeiros,
 as feras e todo o gado,
 répteis e aves voadoras.
 
-[Bridge] (v. 11-12)
+[Bridge]
 Reis da terra e todos os povos,
 príncipes e todos os juízes da terra,
 mancebos e donzelas,
 velhos e crianças.
 
-[Refrão Final] (v. 13-14)
+[Refrão Final]
 Louvem o nome do SENHOR,
 pois só o seu nome é exaltado;
 a sua glória está sobre a terra e o céu.
