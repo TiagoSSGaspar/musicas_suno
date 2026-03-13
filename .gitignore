@@ -15,3 +15,17 @@
 *.wmv
 *.flv
 *.webm
+
+# Node / Dependências
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Variáveis de Ambiente e Segredos
+.env
+.env.*
+!.env.example
+
+# Arquivos de Injeção e Cache
+/tmp/suno_inject_*
+.DS_Store
